@@ -1,0 +1,140 @@
+{
+  "posted_ids": [
+    "fixtures-2026-11-23",
+    "result-555095",
+    "result-558828",
+    "result-558521"
+  ],
+  "history": [
+    {
+      "id": "fixtures-2026-11-23",
+      "type": "fixtures",
+      "title": "Matchs du lundi 23 novembre 2026",
+      "message": "📅 MATCHS DU JOUR – lundi 23 novembre 2026\n\n🕒 19:45 – Monza vs Fiorentina (Serie A)\n🕒 20:00 – Levante vs Elche (Primera Division)\n🕒 20:00 – Brentford vs Everton (Premier League)\n🕒 22:30 – Internacional vs Vitória (Campeonato Brasileiro Série A)\n🕒 23:00 – Botafogo vs São Paulo (Campeonato Brasileiro Série A)\n\n🔥 Bon match à tous !\n\n#Football",
+      "image": "cards/fixtures-2026-11-23.png",
+      "date": "2026-11-23T23:38:28.641218+00:00"
+    },
+    {
+      "id": "result-555095",
+      "type": "score",
+      "title": "Chapecoense 1 - 2 Cruzeiro",
+      "message": "⏱️ TERMINÉ\n\n⚽ CHAPECOENSE 1 - 2 CRUZEIRO\n\n✅ Victoire de Cruzeiro\n🏆 Campeonato Brasileiro Série A · Journée 36\n\n#Football #CampeonatoBrasileiroSérieA",
+      "image": "cards/result-555095.png",
+      "date": "2026-11-23T23:38:34.092713+00:00"
+    },
+    {
+      "id": "result-558828",
+      "type": "score",
+      "title": "Twente 2 - 1 Willem II",
+      "message": "⏱️ TERMINÉ\n\n⚽ TWENTE 2 - 1 WILLEM II\n\n✅ Victoire de Twente\n🏆 Eredivisie · Journée 13\n\n#Football #Eredivisie",
+      "image": "cards/result-558828.png",
+      "date": "2026-11-23T23:38:39.363662+00:00"
+    },
+    {
+      "id": "result-558521",
+      "type": "score",
+      "title": "Juventus 4 - 0 Venezia FC",
+      "message": "⏱️ TERMINÉ\n\n⚽ JUVENTUS 4 - 0 VENEZIA FC\n\n✅ Victoire de Juventus\n🏆 Serie A · Journée 12\n\n#Football #SerieA",
+      "image": "cards/result-558521.png",
+      "date": "2026-11-23T23:38:44.590559+00:00"
+    }
+  ],
+  "feed_health": {
+    "https://rmcsport.bfmtv.com/rss/football/": {},
+    "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/": {},
+    "https://feeds.bbci.co.uk/sport/football/rss.xml": {},
+    "https://www.footmercato.net/flux-rss": {},
+    "https://www.skysports.com/rss/12040": {},
+    "https://www.theguardian.com/football/rss": {},
+    "https://www.mundodeportivo.com/rss/futbol.xml": {},
+    "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml": {},
+    "https://www.lefigaro.fr/rss/figaro_sport.xml": {},
+    "https://www.lemonde.fr/sport/rss_full.xml": {},
+    "https://www.francetvinfo.fr/sports.rss": {},
+    "https://www.france24.com/fr/sports/rss": {},
+    "https://www.rfi.fr/fr/sport/rss": {},
+    "https://www.20minutes.fr/feeds/rss-sport.xml": {},
+    "https://www.leparisien.fr/sports/rss.xml": {},
+    "https://www.goal.com/feeds/fr/news": {
+      "fails": 1
+    },
+    "https://www.actufoot.com/feed": {
+      "fails": 1
+    },
+    "https://www.footsur7.fr/feed/": {
+      "fails": 1
+    },
+    "https://www.mercato365.com/rss": {},
+    "https://www.africatopsports.com/feed/": {},
+    "https://www.afrik-foot.com/feed": {},
+    "https://www.footafrica365.fr/feed": {
+      "fails": 1
+    },
+    "https://www.bbc.com/afrique/sport/rss.xml": {
+      "fails": 1
+    },
+    "https://www.goal.com/feeds/en/news": {
+      "fails": 1
+    },
+    "https://www.fourfourtwo.com/feed": {
+      "fails": 1
+    },
+    "https://www.independent.co.uk/sport/football/rss": {
+      "fails": 1
+    },
+    "https://www.telegraph.co.uk/football/rss.xml": {},
+    "https://www.cbssports.com/rss/headlines/soccer/": {},
+    "https://talksport.com/football/feed/": {},
+    "https://www.90min.com/posts.rss": {},
+    "https://www.sport.es/es/rss/futbol/rss.xml": {
+      "fails": 1
+    },
+    "https://www.gazzetta.it/rss/calcio.xml": {},
+    "https://www.corrieredellosport.it/rss/calcio": {},
+    "https://rss.kicker.de/news/aktuell": {
+      "fails": 1
+    },
+    "https://www.record.pt/rss/futebol.xml": {
+      "fails": 1
+    }
+  },
+  "lineup_calls": {
+    "date": "2026-11-23",
+    "n": 1,
+    "last": ""
+  },
+  "lineup_plan": {
+    "date": "2026-11-23",
+    "fixtures": [
+      {
+        "id": 1550203,
+        "ts": 1795463100,
+        "comp": "Serie A",
+        "home": "Monza",
+        "away": "Fiorentina"
+      },
+      {
+        "id": 1557469,
+        "ts": 1795464000,
+        "comp": "Premier League",
+        "home": "Brentford",
+        "away": "Everton"
+      },
+      {
+        "id": 1570457,
+        "ts": 1795464000,
+        "comp": "La Liga",
+        "home": "Levante",
+        "away": "Elche"
+      }
+    ],
+    "tries": {}
+  },
+  "fd_scores": {},
+  "live_calls": {
+    "date": "2026-11-23",
+    "n": 1,
+    "last": "2026-11-23T23:38:23.365973+00:00"
+  },
+  "live_fixtures": []
+}
