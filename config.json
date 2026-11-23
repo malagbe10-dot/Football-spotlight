@@ -1,0 +1,268 @@
+{
+  "site_name": "Foot Actu",
+  "tagline": "Scores, résultats et actualités du football en continu",
+  "facebook_page_url": "",
+  "utc_offset_hours": 0,
+  "max_posts_per_run": 4,
+  "max_posts_per_day": 40,
+  "news_per_run": 8,
+  "show_link_preview": false,
+  "news_feeds": [
+    {
+      "name": "RMC Sport",
+      "url": "https://rmcsport.bfmtv.com/rss/football/"
+    },
+    {
+      "name": "AS",
+      "url": "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/",
+      "lang": "es"
+    },
+    {
+      "name": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "lang": "en"
+    },
+    {
+      "name": "Foot Mercato",
+      "url": "https://www.footmercato.net/flux-rss"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com/rss/12040",
+      "lang": "en"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/football/rss",
+      "lang": "en"
+    },
+    {
+      "name": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/rss/futbol.xml",
+      "lang": "es"
+    },
+    {
+      "name": "Marca",
+      "url": "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml",
+      "lang": "es"
+    },
+    {
+      "name": "Le Figaro Sport",
+      "url": "https://www.lefigaro.fr/rss/figaro_sport.xml",
+      "lang": "fr"
+    },
+    {
+      "name": "Le Monde Sport",
+      "url": "https://www.lemonde.fr/sport/rss_full.xml",
+      "lang": "fr"
+    },
+    {
+      "name": "Franceinfo Sport",
+      "url": "https://www.francetvinfo.fr/sports.rss",
+      "lang": "fr"
+    },
+    {
+      "name": "France 24 Sport",
+      "url": "https://www.france24.com/fr/sports/rss",
+      "lang": "fr"
+    },
+    {
+      "name": "RFI Sport",
+      "url": "https://www.rfi.fr/fr/sport/rss",
+      "lang": "fr"
+    },
+    {
+      "name": "20 Minutes Foot",
+      "url": "https://www.20minutes.fr/feeds/rss-sport.xml",
+      "lang": "fr"
+    },
+    {
+      "name": "Le Parisien Sport",
+      "url": "https://www.leparisien.fr/sports/rss.xml",
+      "lang": "fr"
+    },
+    {
+      "name": "Goal France",
+      "url": "https://www.goal.com/feeds/fr/news",
+      "lang": "fr"
+    },
+    {
+      "name": "Actufoot",
+      "url": "https://www.actufoot.com/feed",
+      "lang": "fr"
+    },
+    {
+      "name": "Foot Sur 7",
+      "url": "https://www.footsur7.fr/feed/",
+      "lang": "fr"
+    },
+    {
+      "name": "Mercato365",
+      "url": "https://www.mercato365.com/rss",
+      "lang": "fr"
+    },
+    {
+      "name": "Africa Top Sports",
+      "url": "https://www.africatopsports.com/feed/",
+      "lang": "fr"
+    },
+    {
+      "name": "Afrik-Foot",
+      "url": "https://www.afrik-foot.com/feed",
+      "lang": "fr"
+    },
+    {
+      "name": "Foot Africa",
+      "url": "https://www.footafrica365.fr/feed",
+      "lang": "fr"
+    },
+    {
+      "name": "BBC Afrique",
+      "url": "https://www.bbc.com/afrique/sport/rss.xml",
+      "lang": "fr"
+    },
+    {
+      "name": "Goal",
+      "url": "https://www.goal.com/feeds/en/news",
+      "lang": "en"
+    },
+    {
+      "name": "FourFourTwo",
+      "url": "https://www.fourfourtwo.com/feed",
+      "lang": "en"
+    },
+    {
+      "name": "Independent Football",
+      "url": "https://www.independent.co.uk/sport/football/rss",
+      "lang": "en"
+    },
+    {
+      "name": "Telegraph Football",
+      "url": "https://www.telegraph.co.uk/football/rss.xml",
+      "lang": "en"
+    },
+    {
+      "name": "CBS Sports Soccer",
+      "url": "https://www.cbssports.com/rss/headlines/soccer/",
+      "lang": "en"
+    },
+    {
+      "name": "talkSPORT",
+      "url": "https://talksport.com/football/feed/",
+      "lang": "en"
+    },
+    {
+      "name": "90min",
+      "url": "https://www.90min.com/posts.rss",
+      "lang": "en"
+    },
+    {
+      "name": "Sport (Espagne)",
+      "url": "https://www.sport.es/es/rss/futbol/rss.xml",
+      "lang": "es"
+    },
+    {
+      "name": "La Gazzetta dello Sport",
+      "url": "https://www.gazzetta.it/rss/calcio.xml",
+      "lang": "it"
+    },
+    {
+      "name": "Corriere dello Sport",
+      "url": "https://www.corrieredellosport.it/rss/calcio",
+      "lang": "it"
+    },
+    {
+      "name": "Kicker",
+      "url": "https://rss.kicker.de/news/aktuell",
+      "lang": "de"
+    },
+    {
+      "name": "Record (Portugal)",
+      "url": "https://www.record.pt/rss/futebol.xml",
+      "lang": "pt"
+    }
+  ],
+  "competitions": [
+    "FL1",
+    "PL",
+    "PD",
+    "SA",
+    "BL1",
+    "CL",
+    "ELC",
+    "DED",
+    "PPL",
+    "BSA",
+    "EC",
+    "WC"
+  ],
+  "standings_competitions": [
+    "FL1",
+    "PL",
+    "PD",
+    "SA",
+    "BL1",
+    "PPL"
+  ],
+  "live": {
+    "enabled": true,
+    "league_ids": [
+      61,
+      39,
+      140,
+      135,
+      78,
+      2,
+      1,
+      6
+    ],
+    "kinds": [
+      "goal",
+      "red",
+      "var",
+      "penmiss"
+    ],
+    "max_events_per_run": 8,
+    "max_events_per_day": 80,
+    "catchup_minutes": 15,
+    "hours_utc": [
+      12,
+      23
+    ],
+    "min_minutes_between_calls": 15,
+    "max_calls_per_day": 70,
+    "fd_enabled": true,
+    "fd_competitions": [
+      "FL1",
+      "PL",
+      "PD",
+      "SA",
+      "BL1",
+      "CL",
+      "WC"
+    ],
+    "lineups": {
+      "enabled": true,
+      "max_calls_per_day": 20,
+      "minutes_before": [
+        50,
+        30,
+        12
+      ]
+    },
+    "details_followup": true,
+    "urgent_minutes_between_calls": 2
+  },
+  "brand_name": "Football Spotlight",
+  "images": {
+    "news": true,
+    "score": true,
+    "goal": true,
+    "keep": 80,
+    "ai": true,
+    "event": true,
+    "table": true,
+    "lineup": true,
+    "logo": true
+  }
+}
