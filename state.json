@@ -15,7 +15,13 @@
     "standings-PD-2026-W48",
     "standings-SA-2026-W48",
     "news-https://www.leparisien.fr/sports/rugby/xv-de-france/nous-sommes-comme-ses-soldats-antoine-dupont-genie-du-rugby-devenu-capitaine-inconteste-du-xv-de-france-21-11-2026-CBRMM36WPVGTFBSPQHLOVYCICQ.php",
-    "news-https://www.leparisien.fr/sports/formule-1/formule-1-max-verstappen-partira-en-pole-position-au-grand-prix-de-las-vegas-apres-la-penalite-de-kimi-antonelli-21-11-2026-36SNLH2DTZEXBJADQ6EVTGAWEE.php"
+    "news-https://www.leparisien.fr/sports/formule-1/formule-1-max-verstappen-partira-en-pole-position-au-grand-prix-de-las-vegas-apres-la-penalite-de-kimi-antonelli-21-11-2026-36SNLH2DTZEXBJADQ6EVTGAWEE.php",
+    "standings-BL1-2026-W48",
+    "standings-PPL-2026-W48",
+    "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-argentine-pourquoi-cela-sarreterait-maintenant-le-xv-de-france-en-route-vers-la-grande-finale-21-11-2026-K2GZNNURQVDXZFHLKND3Z5FGN4.php",
+    "news-https://www.leparisien.fr/sports/mma/mma-le-nutritionniste-de-manon-fiorot-suspendue-pour-dopage-admet-sa-responsabilite-et-assume-les-consequences-de-cette-erreur-21-11-2026-3SQVZ5QCQ5CK5MLDGVQRGOEVJA.php",
+    "news-https://www.leparisien.fr/sports/football/bayern-munich-blesse-a-la-cheville-harry-kane-absent-plusieurs-mois-21-11-2026-TSDUTHGZ2NAX3KMMXUM25LITWE.php",
+    "news-https://www.leparisien.fr/sports/cyclisme/tadej-pogacar-annonce-la-couleur-pour-2027-un-premier-sacre-sur-paris-roubaix-et-un-6e-sur-le-tour-de-france-dans-le-viseur-21-11-2026-GBJYJ2MH45B67JKXM43X56VU5Q.php"
   ],
   "history": [
     {
@@ -149,6 +155,58 @@
       "link": "https://www.leparisien.fr/sports/formule-1/formule-1-max-verstappen-partira-en-pole-position-au-grand-prix-de-las-vegas-apres-la-penalite-de-kimi-antonelli-21-11-2026-36SNLH2DTZEXBJADQ6EVTGAWEE.php",
       "image": "cards/news-https___www_leparisien_fr_sports_formule-1_formule-1-max-verstappen-partira.png",
       "date": "2026-11-24T00:13:04.755771+00:00"
+    },
+    {
+      "id": "standings-BL1-2026-W48",
+      "type": "standings",
+      "title": "Classement Bundesliga",
+      "message": "📊 Classement Bundesliga (top 10)\n\n🥇 Dortmund – 24 pts\n🥈 Bayern – 22 pts\n🥉 Freiburg – 22 pts\n4. RB Leipzig – 21 pts\n5. Leverkusen – 19 pts\n6. Bremen – 18 pts\n7. Frankfurt – 15 pts\n8. Stuttgart – 13 pts\n9. Elversberg – 13 pts\n10. Augsburg – 12 pts\n\n📌 Dortmund est en tête avec 24 points en 10 matchs, 2 point(s) d'avance sur Bayern.\n\n#Football",
+      "image": "cards/standings-BL1-2026-W48.png",
+      "date": "2026-11-24T00:42:29.449702+00:00"
+    },
+    {
+      "id": "standings-PPL-2026-W48",
+      "type": "standings",
+      "title": "Classement Primeira Liga",
+      "message": "📊 Classement Primeira Liga (top 10)\n\n🥇 Porto – 33 pts\n🥈 SL Benfica – 28 pts\n🥉 Sporting CP – 24 pts\n4. Santa Clara – 21 pts\n5. Arouca – 20 pts\n6. Acad. Viseu – 20 pts\n7. Gil Vicente – 18 pts\n8. Braga – 17 pts\n9. Moreirense – 14 pts\n10. Famalicão – 13 pts\n\n📌 Porto est en tête avec 33 points en 11 matchs, 5 point(s) d'avance sur SL Benfica.\n\n#Football",
+      "image": "cards/standings-PPL-2026-W48.png",
+      "date": "2026-11-24T00:42:38.693662+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-argentine-pourquoi-cela-sarreterait-maintenant-le-xv-de-france-en-route-vers-la-grande-finale-21-11-2026-K2GZNNURQVDXZFHLKND3Z5FGN4.php",
+      "type": "news",
+      "title": "France-Argentine : « Pourquoi cela s’arrêterait maintenant ? », le XV de France en route vers la grande finale",
+      "message": "🚨 France-Argentine : « Pourquoi cela s’arrêterait maintenant ? », le XV de France en route vers la grande finale\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/rugby/xv-de-france/france-argentine-pourquoi-cela-sarreterait-maintenant-le-xv-de-france-en-route-vers-la-grande-finale-21-11-2026-K2GZNNURQVDXZFHLKND3Z5FGN4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_rugby_xv-de-france_france-argentine-pourqu.png",
+      "date": "2026-11-24T00:42:41.842578+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/mma/mma-le-nutritionniste-de-manon-fiorot-suspendue-pour-dopage-admet-sa-responsabilite-et-assume-les-consequences-de-cette-erreur-21-11-2026-3SQVZ5QCQ5CK5MLDGVQRGOEVJA.php",
+      "type": "news",
+      "title": "MMA : le nutritionniste de Manon Fiorot, suspendue pour dopage, admet sa responsabilité et « assume les conséquences de cette erreur »",
+      "message": "🚨 MMA : le nutritionniste de Manon Fiorot, suspendue pour dopage, admet sa responsabilité et « assume les conséquences de cette erreur »\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/mma/mma-le-nutritionniste-de-manon-fiorot-suspendue-pour-dopage-admet-sa-responsabilite-et-assume-les-consequences-de-cette-erreur-21-11-2026-3SQVZ5QCQ5CK5MLDGVQRGOEVJA.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_mma_mma-le-nutritionniste-de-manon-fiorot-.png",
+      "date": "2026-11-24T00:42:44.864632+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/bayern-munich-blesse-a-la-cheville-harry-kane-absent-plusieurs-mois-21-11-2026-TSDUTHGZ2NAX3KMMXUM25LITWE.php",
+      "type": "news",
+      "title": "Bayern Munich : blessé à la cheville, le Ballon d’or Harry Kane absent « plusieurs mois »",
+      "message": "🚨 Bayern Munich : blessé à la cheville, le Ballon d’or Harry Kane absent « plusieurs mois »\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/bayern-munich-blesse-a-la-cheville-harry-kane-absent-plusieurs-mois-21-11-2026-TSDUTHGZ2NAX3KMMXUM25LITWE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_bayern-munich-blesse-a-la-chevill.png",
+      "date": "2026-11-24T00:42:48.052970+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/cyclisme/tadej-pogacar-annonce-la-couleur-pour-2027-un-premier-sacre-sur-paris-roubaix-et-un-6e-sur-le-tour-de-france-dans-le-viseur-21-11-2026-GBJYJ2MH45B67JKXM43X56VU5Q.php",
+      "type": "news",
+      "title": "Tadej Pogacar annonce la couleur pour 2027 : un premier sacre sur Paris-Roubaix et un 6e sur le Tour de France dans le viseur",
+      "message": "🚨 Tadej Pogacar annonce la couleur pour 2027 : un premier sacre sur Paris-Roubaix et un 6e sur le Tour de France dans le viseur\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/cyclisme/tadej-pogacar-annonce-la-couleur-pour-2027-un-premier-sacre-sur-paris-roubaix-et-un-6e-sur-le-tour-de-france-dans-le-viseur-21-11-2026-GBJYJ2MH45B67JKXM43X56VU5Q.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_cyclisme_tadej-pogacar-annonce-la-couleur-.png",
+      "date": "2026-11-24T00:42:51.364934+00:00"
     }
   ],
   "feed_health": {
