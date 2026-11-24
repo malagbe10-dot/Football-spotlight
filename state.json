@@ -133,8 +133,9 @@
   "fd_scores": {},
   "live_calls": {
     "date": "2026-11-23",
-    "n": 1,
-    "last": "2026-11-23T23:38:23.365973+00:00"
+    "n": 2,
+    "last": "2026-11-23T23:52:53.760004+00:00"
   },
-  "live_fixtures": []
+  "live_fixtures": [],
+  "_out_logged": true
 }
