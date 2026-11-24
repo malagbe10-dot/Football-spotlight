@@ -221,7 +221,9 @@
     "https://www.lefigaro.fr/rss/figaro_sport.xml": {},
     "https://www.lemonde.fr/sport/rss_full.xml": {},
     "https://www.francetvinfo.fr/sports.rss": {},
-    "https://www.france24.com/fr/sports/rss": {},
+    "https://www.france24.com/fr/sports/rss": {
+      "fails": 1
+    },
     "https://www.rfi.fr/fr/sport/rss": {},
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
@@ -356,8 +358,8 @@
   "fd_scores": {},
   "live_calls": {
     "date": "2026-11-24",
-    "n": 17,
-    "last": "2026-11-24T15:53:55.850662+00:00"
+    "n": 19,
+    "last": "2026-11-24T16:23:09.259348+00:00"
   },
   "live_fixtures": []
 }
