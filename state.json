@@ -9,7 +9,13 @@
     "result-564757",
     "result-560649",
     "news-https://www.leparisien.fr/sports/football/ligue-1/on-na-vu-que-lui-de-cergy-en-amateurs-a-la-ligue-1-avec-nice-la-folle-ascension-de-djibril-coulibaly-21-11-2026-OSFA7YUWOFATPOCPPWCKRPIVHM.php",
-    "news-https://www.leparisien.fr/sports/football/deja-un-duel-avec-infantino-en-afrique-philippe-diallo-lance-sa-mission-presque-impossible-pour-etre-elu-a-la-tete-de-la-fifa-21-11-2026-IK3PY6R4ENAFPO7EEREV5WXGSY.php"
+    "news-https://www.leparisien.fr/sports/football/deja-un-duel-avec-infantino-en-afrique-philippe-diallo-lance-sa-mission-presque-impossible-pour-etre-elu-a-la-tete-de-la-fifa-21-11-2026-IK3PY6R4ENAFPO7EEREV5WXGSY.php",
+    "standings-FL1-2026-W48",
+    "standings-PL-2026-W48",
+    "standings-PD-2026-W48",
+    "standings-SA-2026-W48",
+    "news-https://www.leparisien.fr/sports/rugby/xv-de-france/nous-sommes-comme-ses-soldats-antoine-dupont-genie-du-rugby-devenu-capitaine-inconteste-du-xv-de-france-21-11-2026-CBRMM36WPVGTFBSPQHLOVYCICQ.php",
+    "news-https://www.leparisien.fr/sports/formule-1/formule-1-max-verstappen-partira-en-pole-position-au-grand-prix-de-las-vegas-apres-la-penalite-de-kimi-antonelli-21-11-2026-36SNLH2DTZEXBJADQ6EVTGAWEE.php"
   ],
   "history": [
     {
@@ -93,6 +99,56 @@
       "link": "https://www.leparisien.fr/sports/football/deja-un-duel-avec-infantino-en-afrique-philippe-diallo-lance-sa-mission-presque-impossible-pour-etre-elu-a-la-tete-de-la-fifa-21-11-2026-IK3PY6R4ENAFPO7EEREV5WXGSY.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_deja-un-duel-avec-infantino-en-af.png",
       "date": "2026-11-24T00:04:43.718247+00:00"
+    },
+    {
+      "id": "standings-FL1-2026-W48",
+      "type": "standings",
+      "title": "Classement Ligue 1",
+      "message": "📊 Classement Ligue 1 (top 10)\n\n🥇 PSG – 26 pts\n🥈 Paris FC – 23 pts\n🥉 Lille – 21 pts\n4. Olympique Lyon – 20 pts\n5. Marseille – 18 pts\n6. Brest – 18 pts\n7. Nice – 17 pts\n8. Monaco – 17 pts\n9. Stade Rennais – 17 pts\n10. Lorient – 16 pts\n\n📌 PSG est en tête avec 26 points en 11 matchs, 3 point(s) d'avance sur Paris FC.\n\n#Football",
+      "image": "cards/standings-FL1-2026-W48.png",
+      "date": "2026-11-24T00:12:29.959916+00:00"
+    },
+    {
+      "id": "standings-PL-2026-W48",
+      "type": "standings",
+      "title": "Classement Premier League",
+      "message": "📊 Classement Premier League (top 10)\n\n🥇 Arsenal – 28 pts\n🥈 Brighton Hove – 22 pts\n🥉 Man City – 22 pts\n4. Liverpool – 21 pts\n5. Bournemouth – 18 pts\n6. Brentford – 17 pts\n7. Leeds United – 17 pts\n8. Chelsea – 16 pts\n9. Everton – 16 pts\n10. Tottenham – 15 pts\n\n📌 Arsenal est en tête avec 28 points en 11 matchs, 6 point(s) d'avance sur Brighton Hove.\n\n#Football",
+      "image": "cards/standings-PL-2026-W48.png",
+      "date": "2026-11-24T00:12:39.555760+00:00"
+    },
+    {
+      "id": "standings-PD-2026-W48",
+      "type": "standings",
+      "title": "Classement Primera Division",
+      "message": "📊 Classement Primera Division (top 10)\n\n🥇 Barça – 36 pts\n🥈 Real Madrid – 33 pts\n🥉 Atleti – 31 pts\n4. Real Betis – 27 pts\n5. Real Sociedad – 22 pts\n6. Sevilla FC – 19 pts\n7. Santander – 17 pts\n8. Athletic – 16 pts\n9. Alavés – 16 pts\n10. Villarreal – 15 pts\n\n📌 Barça est en tête avec 36 points en 13 matchs, 3 point(s) d'avance sur Real Madrid.\n\n#Football",
+      "image": "cards/standings-PD-2026-W48.png",
+      "date": "2026-11-24T00:12:48.763455+00:00"
+    },
+    {
+      "id": "standings-SA-2026-W48",
+      "type": "standings",
+      "title": "Classement Serie A",
+      "message": "📊 Classement Serie A (top 10)\n\n🥇 Lazio – 32 pts\n🥈 Roma – 30 pts\n🥉 Inter – 29 pts\n4. Milan – 27 pts\n5. Como 1907 – 26 pts\n6. Juventus – 21 pts\n7. Frosinone – 20 pts\n8. Napoli – 18 pts\n9. Bologna – 18 pts\n10. Genoa – 16 pts\n\n📌 Lazio est en tête avec 32 points en 12 matchs, 2 point(s) d'avance sur Roma.\n\n#Football",
+      "image": "cards/standings-SA-2026-W48.png",
+      "date": "2026-11-24T00:12:58.189143+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/rugby/xv-de-france/nous-sommes-comme-ses-soldats-antoine-dupont-genie-du-rugby-devenu-capitaine-inconteste-du-xv-de-france-21-11-2026-CBRMM36WPVGTFBSPQHLOVYCICQ.php",
+      "type": "news",
+      "title": "« Nous sommes comme ses soldats » : Antoine Dupont, génie du rugby devenu capitaine incontesté du XV de France",
+      "message": "🚨 « Nous sommes comme ses soldats » : Antoine Dupont, génie du rugby devenu capitaine incontesté du XV de France\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/rugby/xv-de-france/nous-sommes-comme-ses-soldats-antoine-dupont-genie-du-rugby-devenu-capitaine-inconteste-du-xv-de-france-21-11-2026-CBRMM36WPVGTFBSPQHLOVYCICQ.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_rugby_xv-de-france_nous-sommes-comme-ses-s.png",
+      "date": "2026-11-24T00:13:01.594698+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/formule-1/formule-1-max-verstappen-partira-en-pole-position-au-grand-prix-de-las-vegas-apres-la-penalite-de-kimi-antonelli-21-11-2026-36SNLH2DTZEXBJADQ6EVTGAWEE.php",
+      "type": "news",
+      "title": "Formule 1 : Max Verstappen partira en pole position au Grand Prix de Las Vegas après la pénalité de Kimi Antonelli",
+      "message": "🚨 Formule 1 : Max Verstappen partira en pole position au Grand Prix de Las Vegas après la pénalité de Kimi Antonelli\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/formule-1/formule-1-max-verstappen-partira-en-pole-position-au-grand-prix-de-las-vegas-apres-la-penalite-de-kimi-antonelli-21-11-2026-36SNLH2DTZEXBJADQ6EVTGAWEE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_formule-1_formule-1-max-verstappen-partira.png",
+      "date": "2026-11-24T00:13:04.755771+00:00"
     }
   ],
   "feed_health": {
@@ -112,46 +168,57 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.actufoot.com/feed": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-24T06:12:07.673065+00:00"
     }
   },
   "lineup_calls": {
