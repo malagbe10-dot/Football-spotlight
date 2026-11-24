@@ -260,7 +260,7 @@
     "score": true,
     "goal": true,
     "keep": 80,
-    "ai": true,
+    "ai": false,
     "event": true,
     "table": true,
     "lineup": true,
