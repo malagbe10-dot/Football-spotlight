@@ -3,7 +3,13 @@
     "fixtures-2026-11-23",
     "result-555095",
     "result-558828",
-    "result-558521"
+    "result-558521",
+    "fixtures-2026-11-24",
+    "result-558519",
+    "result-564757",
+    "result-560649",
+    "news-https://www.leparisien.fr/sports/football/ligue-1/on-na-vu-que-lui-de-cergy-en-amateurs-a-la-ligue-1-avec-nice-la-folle-ascension-de-djibril-coulibaly-21-11-2026-OSFA7YUWOFATPOCPPWCKRPIVHM.php",
+    "news-https://www.leparisien.fr/sports/football/deja-un-duel-avec-infantino-en-afrique-philippe-diallo-lance-sa-mission-presque-impossible-pour-etre-elu-a-la-tete-de-la-fifa-21-11-2026-IK3PY6R4ENAFPO7EEREV5WXGSY.php"
   ],
   "history": [
     {
@@ -37,6 +43,56 @@
       "message": "⏱️ TERMINÉ\n\n⚽ JUVENTUS 4 - 0 VENEZIA FC\n\n✅ Victoire de Juventus\n🏆 Serie A · Journée 12\n\n#Football #SerieA",
       "image": "cards/result-558521.png",
       "date": "2026-11-23T23:38:44.590559+00:00"
+    },
+    {
+      "id": "fixtures-2026-11-24",
+      "type": "fixtures",
+      "title": "Matchs du mardi 24 novembre 2026",
+      "message": "📅 MATCHS DU JOUR – mardi 24 novembre 2026\n\n🕒 00:00 – Santos vs Grêmio (Campeonato Brasileiro Série A)\n🕒 17:45 – Galatasaray vs Aston Villa (UEFA Champions League)\n🕒 17:45 – Bodø/Glimt vs LASK (UEFA Champions League)\n🕒 19:45 – Charlton vs Lincoln City (Championship)\n🕒 19:45 – Middlesbrough vs Swansea (Championship)\n🕒 19:45 – Norwich vs QPR (Championship)\n🕒 19:45 – Sheffield Utd vs Southampton (Championship)\n🕒 19:45 – Cardiff vs Preston NE (Championship)\n🕒 19:45 – Bristol City vs Wrexham (Championship)\n🕒 19:45 – Portsmouth vs West Ham (Championship)\n🕒 20:00 – Sl. Bratislava vs Real Betis (UEFA Champions League)\n🕒 20:00 – Real Madrid vs PSV (UEFA Champions League)\n🕒 20:00 – Como 1907 vs PAE AEK (UEFA Champions League)\n🕒 20:00 – Arsenal vs Dortmund (UEFA Champions League)\n🕒 20:00 – Wolverhampton vs Derby County (Championship)\n\n🔥 Bon match à tous !\n\n#Football",
+      "image": "cards/fixtures-2026-11-24.png",
+      "date": "2026-11-24T00:04:17.303252+00:00"
+    },
+    {
+      "id": "result-558519",
+      "type": "score",
+      "title": "Monza 3 - 0 Fiorentina",
+      "message": "⏱️ TERMINÉ\n\n⚽ MONZA 3 - 0 FIORENTINA\n\n✅ Victoire de Monza\n🏆 Serie A · Journée 12\n\n#Football #SerieA",
+      "image": "cards/result-558519.png",
+      "date": "2026-11-24T00:04:21.849806+00:00"
+    },
+    {
+      "id": "result-564757",
+      "type": "score",
+      "title": "Levante 1 - 1 Elche",
+      "message": "⏱️ TERMINÉ\n\n⚽ LEVANTE 1 - 1 ELCHE\n\n🤝 Match nul\n🏆 Primera Division · Journée 13\n\n#Football #PrimeraDivision",
+      "image": "cards/result-564757.png",
+      "date": "2026-11-24T00:04:26.491377+00:00"
+    },
+    {
+      "id": "result-560649",
+      "type": "score",
+      "title": "Brentford 4 - 0 Everton",
+      "message": "⏱️ TERMINÉ\n\n⚽ BRENTFORD 4 - 0 EVERTON\n\n✅ Victoire de Brentford\n🏆 Premier League · Journée 11\n\n#Football #PremierLeague",
+      "image": "cards/result-560649.png",
+      "date": "2026-11-24T00:04:31.146360+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-1/on-na-vu-que-lui-de-cergy-en-amateurs-a-la-ligue-1-avec-nice-la-folle-ascension-de-djibril-coulibaly-21-11-2026-OSFA7YUWOFATPOCPPWCKRPIVHM.php",
+      "type": "news",
+      "title": "« On n’a vu que lui » : de Cergy en amateurs à la Ligue 1 avec Nice, la folle ascension de Djibril Coulibaly",
+      "message": "🚨 « On n’a vu que lui » : de Cergy en amateurs à la Ligue 1 avec Nice, la folle ascension de Djibril Coulibaly\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-1/on-na-vu-que-lui-de-cergy-en-amateurs-a-la-ligue-1-avec-nice-la-folle-ascension-de-djibril-coulibaly-21-11-2026-OSFA7YUWOFATPOCPPWCKRPIVHM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-1_on-na-vu-que-lui-de-cergy.png",
+      "date": "2026-11-24T00:04:40.080397+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/deja-un-duel-avec-infantino-en-afrique-philippe-diallo-lance-sa-mission-presque-impossible-pour-etre-elu-a-la-tete-de-la-fifa-21-11-2026-IK3PY6R4ENAFPO7EEREV5WXGSY.php",
+      "type": "news",
+      "title": "Déjà un duel avec Infantino ? En Afrique, Philippe Diallo lance sa mission presque impossible pour être élu à la tête de la Fifa",
+      "message": "🚨 Déjà un duel avec Infantino ? En Afrique, Philippe Diallo lance sa mission presque impossible pour être élu à la tête de la Fifa\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/deja-un-duel-avec-infantino-en-afrique-philippe-diallo-lance-sa-mission-presque-impossible-pour-etre-elu-a-la-tete-de-la-fifa-21-11-2026-IK3PY6R4ENAFPO7EEREV5WXGSY.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_deja-un-duel-avec-infantino-en-af.png",
+      "date": "2026-11-24T00:04:43.718247+00:00"
     }
   ],
   "feed_health": {
@@ -56,46 +112,46 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.actufoot.com/feed": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 1
+      "fails": 2
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 1
+      "fails": 2
     }
   },
   "lineup_calls": {
