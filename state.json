@@ -221,9 +221,7 @@
     "https://www.lefigaro.fr/rss/figaro_sport.xml": {},
     "https://www.lemonde.fr/sport/rss_full.xml": {},
     "https://www.francetvinfo.fr/sports.rss": {},
-    "https://www.france24.com/fr/sports/rss": {
-      "fails": 1
-    },
+    "https://www.france24.com/fr/sports/rss": {},
     "https://www.rfi.fr/fr/sport/rss": {},
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
@@ -283,8 +281,8 @@
   },
   "lineup_calls": {
     "date": "2026-11-24",
-    "n": 1,
-    "last": ""
+    "n": 3,
+    "last": "2026-11-24T16:55:04.678756+00:00"
   },
   "lineup_plan": {
     "date": "2026-11-24",
@@ -353,13 +351,16 @@
         "away": "Real Betis"
       }
     ],
-    "tries": {}
+    "tries": {
+      "1635641": 1,
+      "1635667": 1
+    }
   },
   "fd_scores": {},
   "live_calls": {
     "date": "2026-11-24",
-    "n": 19,
-    "last": "2026-11-24T16:23:09.259348+00:00"
+    "n": 21,
+    "last": "2026-11-24T16:52:18.248735+00:00"
   },
   "live_fixtures": []
 }
