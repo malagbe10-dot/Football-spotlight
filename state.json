@@ -280,33 +280,75 @@
     }
   },
   "lineup_calls": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "n": 1,
     "last": ""
   },
   "lineup_plan": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "fixtures": [
       {
-        "id": 1550203,
-        "ts": 1795463100,
-        "comp": "Serie A",
-        "home": "Monza",
-        "away": "Fiorentina"
+        "id": 1635641,
+        "ts": 1795542300,
+        "comp": "UEFA Champions League",
+        "home": "Bodo/Glimt",
+        "away": "Lask Linz"
       },
       {
-        "id": 1557469,
-        "ts": 1795464000,
-        "comp": "Premier League",
-        "home": "Brentford",
-        "away": "Everton"
+        "id": 1635667,
+        "ts": 1795542300,
+        "comp": "UEFA Champions League",
+        "home": "Galatasaray",
+        "away": "Aston Villa"
       },
       {
-        "id": 1570457,
-        "ts": 1795464000,
-        "comp": "La Liga",
-        "home": "Levante",
-        "away": "Elche"
+        "id": 1635611,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "Arsenal",
+        "away": "Borussia Dortmund"
+      },
+      {
+        "id": 1635649,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "Como",
+        "away": "AEK Athens FC"
+      },
+      {
+        "id": 1635663,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "Feyenoord",
+        "away": "FC Porto"
+      },
+      {
+        "id": 1635692,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "Manchester City",
+        "away": "Napoli"
+      },
+      {
+        "id": 1635713,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "RB Leipzig",
+        "away": "Lens"
+      },
+      {
+        "id": 1635715,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "Real Madrid",
+        "away": "PSV Eindhoven"
+      },
+      {
+        "id": 1635731,
+        "ts": 1795550400,
+        "comp": "UEFA Champions League",
+        "home": "Slovan Bratislava",
+        "away": "Real Betis"
       }
     ],
     "tries": {}
