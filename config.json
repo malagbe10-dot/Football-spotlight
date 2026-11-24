@@ -1,9 +1,10 @@
 {
-  "site_name": "Foot Actu",
+  "site_name": "Football Spotlight",
   "tagline": "Scores, résultats et actualités du football en continu",
   "facebook_page_url": "",
   "utc_offset_hours": 0,
-  "max_posts_per_run": 4,
+  "max_posts_per_run": 6,
+  "news_reserved_per_run": 2,
   "max_posts_per_day": 40,
   "news_per_run": 8,
   "show_link_preview": false,

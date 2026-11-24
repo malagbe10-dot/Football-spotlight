@@ -287,7 +287,7 @@ def make_fixtures_image(todays, tz, day, path):
         d.text((580, y + 85), m["competition"]["name"], font=load_font(22, False),
                fill=(190, 230, 205), anchor="mm")
         y += rh
-    d.text((W // 2, img.height - 50), "Foot Actu", font=load_font(34), fill=(190, 230, 205), anchor="mm")
+    d.text((W // 2, img.height - 50), BRAND, font=load_font(34), fill=(190, 230, 205), anchor="mm")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     img.save(path)
 
@@ -623,6 +623,8 @@ def build_posts(cfg, mode, state):
                     rel = f"cards/{fid}.png"
                     try:
                         make_fixtures_image(todays, tz, today, os.path.join(SITE_DIR, rel))
+                        if cfg.get("images", {}).get("logo", True):
+                            add_logo(os.path.join(SITE_DIR, rel))
                         post["image"] = rel
                     except Exception as e:  # noqa
                         log(f"[visuel] échec de l'image : {e}")
@@ -1223,7 +1225,14 @@ def run_once(args, cfg, state, mode):
     done_today = sum(1 for h in state["history"]
                      if h.get("date", "")[:10] == today and h.get("type") != "event")
     remaining = max(0, cfg.get("max_posts_per_day", 20) - done_today)
-    posts = posts[: min(cfg["max_posts_per_run"], remaining)]
+    cap = min(cfg["max_posts_per_run"], remaining)
+    news = [p for p in posts if p["type"] == "news"]
+    other = [p for p in posts if p["type"] != "news"]
+    n_news = min(len(news), min(cfg.get("news_reserved_per_run", 2), cap))
+    keep = other[: cap - n_news]
+    n_news = min(len(news), cap - len(keep))
+    posts = keep + news[:n_news]
+    posts.sort(key=lambda p: order.get(p["type"], 9))
 
     if mode in ("all", "live"):
         live_cfg = cfg.get("live", {})
