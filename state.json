@@ -377,7 +377,7 @@
       1
     ],
     "575397": [
-      0,
+      1,
       1
     ],
     "575403": [
@@ -403,8 +403,8 @@
   },
   "live_calls": {
     "date": "2026-11-24",
-    "n": 45,
-    "last": "2026-11-24T21:04:34.106258+00:00"
+    "n": 46,
+    "last": "2026-11-24T21:15:27.848827+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -457,6 +457,31 @@
       "h": "Sl. Bratislava",
       "a": "Real Betis",
       "n": 1
+    },
+    {
+      "h": "Real Madrid",
+      "a": "PSV",
+      "n": 2
+    },
+    {
+      "h": "Arsenal",
+      "a": "Borussia Dortmund",
+      "n": 2
+    },
+    {
+      "h": "Manchester City",
+      "a": "Napoli",
+      "n": 1
+    },
+    {
+      "h": "RB Leipzig",
+      "a": "Lens",
+      "n": 3
+    },
+    {
+      "h": "Slovan Bratislava",
+      "a": "Real Betis",
+      "n": 2
     }
   ],
   "apif_urgent": ""
