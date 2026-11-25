@@ -213,7 +213,9 @@
     "https://rmcsport.bfmtv.com/rss/football/": {},
     "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/": {},
     "https://feeds.bbci.co.uk/sport/football/rss.xml": {},
-    "https://www.footmercato.net/flux-rss": {},
+    "https://www.footmercato.net/flux-rss": {
+      "fails": 1
+    },
     "https://www.skysports.com/rss/12040": {},
     "https://www.theguardian.com/football/rss": {},
     "https://www.mundodeportivo.com/rss/futbol.xml": {},
