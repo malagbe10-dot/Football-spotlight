@@ -226,39 +226,39 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.actufoot.com/feed": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
@@ -268,18 +268,18 @@
     },
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 7,
-      "next": "2026-11-25T06:53:32.449556+00:00"
+      "fails": 8,
+      "next": "2026-11-25T13:04:04.572390+00:00"
     }
   },
   "lineup_calls": {
