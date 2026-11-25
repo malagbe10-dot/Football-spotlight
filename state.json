@@ -283,88 +283,78 @@
     }
   },
   "lineup_calls": {
-    "date": "2026-11-24",
-    "n": 20,
+    "date": "2026-11-25",
+    "n": 1,
     "last": "2026-11-24T19:30:00.251256+00:00"
   },
   "lineup_plan": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "fixtures": [
       {
-        "id": 1635641,
-        "ts": 1795542300,
+        "id": 1635718,
+        "ts": 1795628700,
         "comp": "UEFA Champions League",
-        "home": "Bodo/Glimt",
-        "away": "Lask Linz"
+        "home": "Sabah FA",
+        "away": "Barcelona"
       },
       {
-        "id": 1635667,
-        "ts": 1795542300,
+        "id": 1635728,
+        "ts": 1795628700,
         "comp": "UEFA Champions League",
-        "home": "Galatasaray",
-        "away": "Aston Villa"
+        "home": "Slavia Praha",
+        "away": "Villarreal"
       },
       {
-        "id": 1635611,
-        "ts": 1795550400,
+        "id": 1635625,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "Arsenal",
-        "away": "Borussia Dortmund"
+        "home": "Atletico Madrid",
+        "away": "Viking"
       },
       {
-        "id": 1635649,
-        "ts": 1795550400,
+        "id": 1635642,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "Como",
-        "away": "AEK Athens FC"
+        "home": "Club Brugge KV",
+        "away": "Liverpool"
       },
       {
-        "id": 1635663,
-        "ts": 1795550400,
+        "id": 1635673,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "Feyenoord",
-        "away": "FC Porto"
+        "home": "Inter",
+        "away": "VfB Stuttgart"
       },
       {
-        "id": 1635692,
-        "ts": 1795550400,
+        "id": 1635682,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "Manchester City",
-        "away": "Napoli"
+        "home": "Lille",
+        "away": "Bayern München"
       },
       {
-        "id": 1635713,
-        "ts": 1795550400,
+        "id": 1635703,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "RB Leipzig",
-        "away": "Lens"
+        "home": "Paris Saint Germain",
+        "away": "AS Roma"
       },
       {
-        "id": 1635715,
-        "ts": 1795550400,
+        "id": 1635724,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "Real Madrid",
-        "away": "PSV Eindhoven"
+        "home": "Shakhtar Donetsk",
+        "away": "Fenerbahçe"
       },
       {
-        "id": 1635731,
-        "ts": 1795550400,
+        "id": 1635735,
+        "ts": 1795636800,
         "comp": "UEFA Champions League",
-        "home": "Slovan Bratislava",
-        "away": "Real Betis"
+        "home": "Sporting CP",
+        "away": "Manchester United"
       }
     ],
-    "tries": {
-      "1635641": 3,
-      "1635667": 3,
-      "1635611": 2,
-      "1635649": 2,
-      "1635663": 2,
-      "1635692": 2,
-      "1635713": 2,
-      "1635715": 2,
-      "1635731": 1
-    }
+    "tries": {}
   },
   "fd_scores": {
     "575395": [
