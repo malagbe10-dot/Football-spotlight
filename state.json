@@ -226,63 +226,63 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.actufoot.com/feed": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 9,
-      "next": "2026-11-25T19:14:37.437235+00:00"
+      "fails": 10,
+      "next": "2026-11-26T01:24:51.004364+00:00"
     }
   },
   "lineup_calls": {
     "date": "2026-11-25",
-    "n": 7,
-    "last": "2026-11-25T17:33:05.519245+00:00"
+    "n": 14,
+    "last": "2026-11-25T19:10:02.995997+00:00"
   },
   "lineup_plan": {
     "date": "2026-11-25",
@@ -353,7 +353,14 @@
     ],
     "tries": {
       "1635718": 3,
-      "1635728": 3
+      "1635728": 3,
+      "1635625": 1,
+      "1635642": 1,
+      "1635673": 1,
+      "1635682": 1,
+      "1635703": 1,
+      "1635724": 1,
+      "1635735": 1
     }
   },
   "fd_scores": {
@@ -395,17 +402,17 @@
     ],
     "575405": [
       0,
-      0
+      1
     ],
     "575404": [
-      0,
+      1,
       4
     ]
   },
   "live_calls": {
     "date": "2026-11-25",
-    "n": 42,
-    "last": "2026-11-25T19:08:51.481405+00:00"
+    "n": 50,
+    "last": "2026-11-25T19:21:39.481670+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -553,7 +560,17 @@
       "h": "Sabah FK",
       "a": "Barça",
       "n": 4
+    },
+    {
+      "h": "Slavia Praha",
+      "a": "Villarreal",
+      "n": 1
+    },
+    {
+      "h": "Sabah FK",
+      "a": "Barça",
+      "n": 5
     }
   ],
-  "apif_urgent": "2026-11-25T19:19:28.767733+00:00"
+  "apif_urgent": "2026-11-25T19:21:53.327706+00:00"
 }
