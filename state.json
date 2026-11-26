@@ -237,9 +237,7 @@
       "fails": 13,
       "next": "2026-11-26T19:57:41.327540+00:00"
     },
-    "https://www.mercato365.com/rss": {
-      "fails": 1
-    },
+    "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
