@@ -237,7 +237,9 @@
       "fails": 13,
       "next": "2026-11-26T19:57:41.327540+00:00"
     },
-    "https://www.mercato365.com/rss": {},
+    "https://www.mercato365.com/rss": {
+      "fails": 1
+    },
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
@@ -262,10 +264,7 @@
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
-    "https://talksport.com/football/feed/": {
-      "fails": 3,
-      "next": "2026-11-26T15:54:55.606714+00:00"
-    },
+    "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
       "fails": 13,
@@ -368,8 +367,8 @@
   },
   "live_calls": {
     "date": "2026-11-26",
-    "n": 15,
-    "last": "2026-11-26T15:24:28.622332+00:00"
+    "n": 17,
+    "last": "2026-11-26T15:53:41.719460+00:00"
   },
   "live_fixtures": [
     1635641,
