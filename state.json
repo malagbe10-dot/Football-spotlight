@@ -263,7 +263,8 @@
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {
-      "fails": 2
+      "fails": 3,
+      "next": "2026-11-26T15:54:55.606714+00:00"
     },
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
