@@ -213,7 +213,9 @@
     "https://rmcsport.bfmtv.com/rss/football/": {},
     "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/": {},
     "https://feeds.bbci.co.uk/sport/football/rss.xml": {},
-    "https://www.footmercato.net/flux-rss": {},
+    "https://www.footmercato.net/flux-rss": {
+      "fails": 1
+    },
     "https://www.skysports.com/rss/12040": {},
     "https://www.theguardian.com/football/rss": {},
     "https://www.mundodeportivo.com/rss/futbol.xml": {},
@@ -365,8 +367,8 @@
   },
   "live_calls": {
     "date": "2026-11-26",
-    "n": 36,
-    "last": "2026-11-26T20:31:16.490466+00:00"
+    "n": 38,
+    "last": "2026-11-26T21:00:22.808882+00:00"
   },
   "live_fixtures": [
     1635641,
