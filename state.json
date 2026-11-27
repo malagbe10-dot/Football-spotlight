@@ -21,7 +21,13 @@
     "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-argentine-pourquoi-cela-sarreterait-maintenant-le-xv-de-france-en-route-vers-la-grande-finale-21-11-2026-K2GZNNURQVDXZFHLKND3Z5FGN4.php",
     "news-https://www.leparisien.fr/sports/mma/mma-le-nutritionniste-de-manon-fiorot-suspendue-pour-dopage-admet-sa-responsabilite-et-assume-les-consequences-de-cette-erreur-21-11-2026-3SQVZ5QCQ5CK5MLDGVQRGOEVJA.php",
     "news-https://www.leparisien.fr/sports/football/bayern-munich-blesse-a-la-cheville-harry-kane-absent-plusieurs-mois-21-11-2026-TSDUTHGZ2NAX3KMMXUM25LITWE.php",
-    "news-https://www.leparisien.fr/sports/cyclisme/tadej-pogacar-annonce-la-couleur-pour-2027-un-premier-sacre-sur-paris-roubaix-et-un-6e-sur-le-tour-de-france-dans-le-viseur-21-11-2026-GBJYJ2MH45B67JKXM43X56VU5Q.php"
+    "news-https://www.leparisien.fr/sports/cyclisme/tadej-pogacar-annonce-la-couleur-pour-2027-un-premier-sacre-sur-paris-roubaix-et-un-6e-sur-le-tour-de-france-dans-le-viseur-21-11-2026-GBJYJ2MH45B67JKXM43X56VU5Q.php",
+    "fixtures-2026-11-27",
+    "result-555108",
+    "news-https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/le-senegal-designe-vainqueur-de-la-can-2025-le-tas-a-rendu-justice-au-sport-les-lions-de-la-teranga-jubilent-apres-leur-victoire-24-11-2026-DZBJADLQOJAG7DY6HTGHZ75KSA.php",
+    "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-le-grand-rex-a-paris-ouvrira-ses-portes-dimanche-pour-une-diffusion-geante-de-la-finale-24-11-2026-D7KWB5FGUZDA7DUDBVPU43WYJI.php",
+    "news-https://www.leparisien.fr/sports/tennis/les-courts-me-manquent-enormement-jannik-sinner-opere-du-genou-droit-apres-des-mois-de-douleur-24-11-2026-JU5VMRY2TVARNDWYZQTT5DOPBE.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-1/rennes-le-gardien-kilian-belazzoug-en-passe-de-prolonger-jusquen-2030-24-11-2026-S4HUJA46XRGIBAJOCSV7N6CEGQ.php"
   ],
   "history": [
     {
@@ -207,6 +213,58 @@
       "link": "https://www.leparisien.fr/sports/cyclisme/tadej-pogacar-annonce-la-couleur-pour-2027-un-premier-sacre-sur-paris-roubaix-et-un-6e-sur-le-tour-de-france-dans-le-viseur-21-11-2026-GBJYJ2MH45B67JKXM43X56VU5Q.php",
       "image": "cards/news-https___www_leparisien_fr_sports_cyclisme_tadej-pogacar-annonce-la-couleur-.png",
       "date": "2026-11-24T00:42:51.364934+00:00"
+    },
+    {
+      "id": "fixtures-2026-11-27",
+      "type": "fixtures",
+      "title": "Matchs du vendredi 27 novembre 2026",
+      "message": "📅 MATCHS DU JOUR – vendredi 27 novembre 2026\n\n🕒 19:00 – Groningen vs Willem II (Eredivisie)\n🕒 19:30 – Bremen vs M'gladbach (Bundesliga)\n🕒 19:45 – Venezia FC vs Bologna (Serie A)\n🕒 19:45 – Brest vs Paris FC (Ligue 1)\n🕒 20:00 – Levante vs Santander (Primera Division)\n🕒 20:00 – Southampton vs Middlesbrough (Championship)\n🕒 20:00 – Nottingham vs Chelsea (Premier League)\n🕒 20:15 – Marítimo vs CD Nacional (Primeira Liga)\n🕒 23:00 – Fluminense vs Cruzeiro (Campeonato Brasileiro Série A)\n\n🔥 Bon match à tous !\n\n#Football",
+      "image": "cards/fixtures-2026-11-27.png",
+      "date": "2026-11-27T11:20:27.247123+00:00"
+    },
+    {
+      "id": "result-555108",
+      "type": "score",
+      "title": "São Paulo 3 - 1 Clube do Remo",
+      "message": "⏱️ TERMINÉ\n\n⚽ SÃO PAULO 3 - 1 CLUBE DO REMO\n\n✅ Victoire de São Paulo\n🏆 Campeonato Brasileiro Série A · Journée 37\n\n#Football #CampeonatoBrasileiroSérieA",
+      "image": "cards/result-555108.png",
+      "date": "2026-11-27T11:20:31.741825+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/le-senegal-designe-vainqueur-de-la-can-2025-le-tas-a-rendu-justice-au-sport-les-lions-de-la-teranga-jubilent-apres-leur-victoire-24-11-2026-DZBJADLQOJAG7DY6HTGHZ75KSA.php",
+      "type": "news",
+      "title": "Le Sénégal désigné vainqueur de la CAN 2025 : « Le TAS a rendu justice au sport », les Lions de la Teranga jubilent après leur victoire",
+      "message": "🚨 Le Sénégal désigné vainqueur de la CAN 2025 : « Le TAS a rendu justice au sport », les Lions de la Teranga jubilent après leur victoire\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/le-senegal-designe-vainqueur-de-la-can-2025-le-tas-a-rendu-justice-au-sport-les-lions-de-la-teranga-jubilent-apres-leur-victoire-24-11-2026-DZBJADLQOJAG7DY6HTGHZ75KSA.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_coupe-d-afrique-des-nations_le-se.png",
+      "date": "2026-11-27T11:20:35.282969+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-le-grand-rex-a-paris-ouvrira-ses-portes-dimanche-pour-une-diffusion-geante-de-la-finale-24-11-2026-D7KWB5FGUZDA7DUDBVPU43WYJI.php",
+      "type": "news",
+      "title": "France-Afrique du Sud : le Grand Rex à Paris ouvrira ses portes dimanche pour une diffusion géante de la finale",
+      "message": "🚨 France-Afrique du Sud : le Grand Rex à Paris ouvrira ses portes dimanche pour une diffusion géante de la finale\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-le-grand-rex-a-paris-ouvrira-ses-portes-dimanche-pour-une-diffusion-geante-de-la-finale-24-11-2026-D7KWB5FGUZDA7DUDBVPU43WYJI.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_rugby_xv-de-france_france-afrique-du-sud-l.png",
+      "date": "2026-11-27T11:20:38.498246+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/tennis/les-courts-me-manquent-enormement-jannik-sinner-opere-du-genou-droit-apres-des-mois-de-douleur-24-11-2026-JU5VMRY2TVARNDWYZQTT5DOPBE.php",
+      "type": "news",
+      "title": "« Les courts me manquent énormément » : Jannik Sinner opéré du genou droit après des mois de douleur",
+      "message": "🚨 « Les courts me manquent énormément » : Jannik Sinner opéré du genou droit après des mois de douleur\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/tennis/les-courts-me-manquent-enormement-jannik-sinner-opere-du-genou-droit-apres-des-mois-de-douleur-24-11-2026-JU5VMRY2TVARNDWYZQTT5DOPBE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_tennis_les-courts-me-manquent-enormement-j.png",
+      "date": "2026-11-27T11:20:41.955955+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-1/rennes-le-gardien-kilian-belazzoug-en-passe-de-prolonger-jusquen-2030-24-11-2026-S4HUJA46XRGIBAJOCSV7N6CEGQ.php",
+      "type": "news",
+      "title": "Rennes : le gardien Kilian Belazzoug en passe de prolonger jusqu’en 2030",
+      "message": "🚨 Rennes : le gardien Kilian Belazzoug en passe de prolonger jusqu’en 2030\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-1/rennes-le-gardien-kilian-belazzoug-en-passe-de-prolonger-jusquen-2030-24-11-2026-S4HUJA46XRGIBAJOCSV7N6CEGQ.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-1_rennes-le-gardien-kilian-.png",
+      "date": "2026-11-27T11:20:45.374110+00:00"
     }
   ],
   "feed_health": {
@@ -221,7 +279,9 @@
     "https://www.lefigaro.fr/rss/figaro_sport.xml": {},
     "https://www.lemonde.fr/sport/rss_full.xml": {},
     "https://www.francetvinfo.fr/sports.rss": {},
-    "https://www.france24.com/fr/sports/rss": {},
+    "https://www.france24.com/fr/sports/rss": {
+      "fails": 1
+    },
     "https://www.rfi.fr/fr/sport/rss": {},
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
