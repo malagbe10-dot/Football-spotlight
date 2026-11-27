@@ -57,7 +57,11 @@
     "news-https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/cest-archi-faux-le-president-de-la-federation-senegalaise-repond-aux-soupcons-du-maroc-sur-un-contact-telephonique-avec-un-arbitre-du-tas-25-11-2026-GWVGFZILCJHZRJ36GSMSB5KYPI.php",
     "news-https://www.leparisien.fr/gironde-33/elle-a-vecu-trois-vies-un-mois-apres-la-mort-de-clea-17-ans-sa-famille-et-ses-amis-veulent-perpetuer-sa-memoire-25-11-2026-U4Y45KH6INHP7CBCAVUAKC5PXA.php",
     "news-https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/le-senegal-designe-vainqueur-de-la-can-2025-pourquoi-la-decision-du-tas-va-couter-cher-au-maroc-25-11-2026-L72N5PW4AFF5VJ4KSWRJWH5FNI.php",
-    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/lille-bayern-paix-et-tranquillite-comment-le-club-allemand-tente-dapaiser-la-polemique-des-absences-passageres-de-jamal-musiala-25-11-2026-R5ANPTCVBJD2JCPE5ZLJRYEI3M.php"
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/lille-bayern-paix-et-tranquillite-comment-le-club-allemand-tente-dapaiser-la-polemique-des-absences-passageres-de-jamal-musiala-25-11-2026-R5ANPTCVBJD2JCPE5ZLJRYEI3M.php",
+    "news-https://www.leparisien.fr/sports/football/equipe-de-france/jaime-bien-la-tomate-tas-un-probleme-burger-king-devoile-le-betiser-de-sa-publicite-avec-didier-deschamps-25-11-2026-2LAW5IXCZNDOTBA54CTYRVPAAY.php",
+    "news-https://www.leparisien.fr/sports/football/psg/psg-youth-league-as-rome-1-2-une-defaite-au-gout-amer-pour-les-titis-25-11-2026-LZJM7NBCNZAGNOVMGENBTV4LF4.php",
+    "news-https://www.leparisien.fr/sports/football/psg/direct-psg-as-rome-suivez-le-match-de-ligue-des-champions-a-domicile-du-double-champion-deurope-25-11-2026-7P6B5OI3LJHN5IFG4E3R7AF6EM.php",
+    "news-https://www.leparisien.fr/sports/football/psg/psg-un-fond-blanc-des-ailes-noires-le-maillot-wings-en-passe-de-faire-son-retour-25-11-2026-BG5GY3FTUFBTJPYD4DKYU53PR4.php"
   ],
   "history": [
     {
@@ -565,6 +569,42 @@
       "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/lille-bayern-paix-et-tranquillite-comment-le-club-allemand-tente-dapaiser-la-polemique-des-absences-passageres-de-jamal-musiala-25-11-2026-R5ANPTCVBJD2JCPE5ZLJRYEI3M.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_lille-bayern-.png",
       "date": "2026-11-27T13:51:07.806043+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/equipe-de-france/jaime-bien-la-tomate-tas-un-probleme-burger-king-devoile-le-betiser-de-sa-publicite-avec-didier-deschamps-25-11-2026-2LAW5IXCZNDOTBA54CTYRVPAAY.php",
+      "type": "news",
+      "title": "« J’aime bien la tomate, t’as un problème ? » : Burger King dévoile le bêtisier de sa publicité avec Didier Deschamps",
+      "message": "🚨 « J’aime bien la tomate, t’as un problème ? » : Burger King dévoile le bêtisier de sa publicité avec Didier Deschamps\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/equipe-de-france/jaime-bien-la-tomate-tas-un-probleme-burger-king-devoile-le-betiser-de-sa-publicite-avec-didier-deschamps-25-11-2026-2LAW5IXCZNDOTBA54CTYRVPAAY.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_equipe-de-france_jaime-bien-la-to.png",
+      "date": "2026-11-27T14:20:57.596779+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/psg/psg-youth-league-as-rome-1-2-une-defaite-au-gout-amer-pour-les-titis-25-11-2026-LZJM7NBCNZAGNOVMGENBTV4LF4.php",
+      "type": "news",
+      "title": "PSG Youth League-AS Rome (1-2) : une défaite au goût amer pour les Titis",
+      "message": "🚨 PSG Youth League-AS Rome (1-2) : une défaite au goût amer pour les Titis\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/psg/psg-youth-league-as-rome-1-2-une-defaite-au-gout-amer-pour-les-titis-25-11-2026-LZJM7NBCNZAGNOVMGENBTV4LF4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_psg_psg-youth-league-as-rome-1-2-.png",
+      "date": "2026-11-27T14:21:00.617999+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/psg/direct-psg-as-rome-suivez-le-match-de-ligue-des-champions-a-domicile-du-double-champion-deurope-25-11-2026-7P6B5OI3LJHN5IFG4E3R7AF6EM.php",
+      "type": "news",
+      "title": "PSG-AS Rome (2-2) : le résumé du match nul des Parisiens, qui ont perdu leurs premiers points en Ligue des champions",
+      "message": "🚨 PSG-AS Rome (2-2) : le résumé du match nul des Parisiens, qui ont perdu leurs premiers points en Ligue des champions\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/psg/direct-psg-as-rome-suivez-le-match-de-ligue-des-champions-a-domicile-du-double-champion-deurope-25-11-2026-7P6B5OI3LJHN5IFG4E3R7AF6EM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_psg_direct-psg-as-rome-suivez-le-.png",
+      "date": "2026-11-27T14:21:03.642766+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/psg/psg-un-fond-blanc-des-ailes-noires-le-maillot-wings-en-passe-de-faire-son-retour-25-11-2026-BG5GY3FTUFBTJPYD4DKYU53PR4.php",
+      "type": "news",
+      "title": "PSG : un fond blanc, des ailes noires… Le maillot « Wings » en passe de faire son retour ?",
+      "message": "🚨 PSG : un fond blanc, des ailes noires… Le maillot « Wings » en passe de faire son retour ?\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/psg/psg-un-fond-blanc-des-ailes-noires-le-maillot-wings-en-passe-de-faire-son-retour-25-11-2026-BG5GY3FTUFBTJPYD4DKYU53PR4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_psg_psg-un-fond-blanc-des-ailes-n.png",
+      "date": "2026-11-27T14:21:06.420374+00:00"
     }
   ],
   "feed_health": {
@@ -723,8 +763,8 @@
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 8,
-    "last": "2026-11-27T13:42:29.596975+00:00"
+    "n": 10,
+    "last": "2026-11-27T14:11:38.772835+00:00"
   },
   "live_fixtures": [
     1635641,
