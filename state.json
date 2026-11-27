@@ -61,7 +61,11 @@
     "news-https://www.leparisien.fr/sports/football/equipe-de-france/jaime-bien-la-tomate-tas-un-probleme-burger-king-devoile-le-betiser-de-sa-publicite-avec-didier-deschamps-25-11-2026-2LAW5IXCZNDOTBA54CTYRVPAAY.php",
     "news-https://www.leparisien.fr/sports/football/psg/psg-youth-league-as-rome-1-2-une-defaite-au-gout-amer-pour-les-titis-25-11-2026-LZJM7NBCNZAGNOVMGENBTV4LF4.php",
     "news-https://www.leparisien.fr/sports/football/psg/direct-psg-as-rome-suivez-le-match-de-ligue-des-champions-a-domicile-du-double-champion-deurope-25-11-2026-7P6B5OI3LJHN5IFG4E3R7AF6EM.php",
-    "news-https://www.leparisien.fr/sports/football/psg/psg-un-fond-blanc-des-ailes-noires-le-maillot-wings-en-passe-de-faire-son-retour-25-11-2026-BG5GY3FTUFBTJPYD4DKYU53PR4.php"
+    "news-https://www.leparisien.fr/sports/football/psg/psg-un-fond-blanc-des-ailes-noires-le-maillot-wings-en-passe-de-faire-son-retour-25-11-2026-BG5GY3FTUFBTJPYD4DKYU53PR4.php",
+    "fdgoal-565869-0-1",
+    "fdgoal-558515-1-0",
+    "fdgoal-559616-1-0",
+    "fdgoal-560658-1-0"
   ],
   "history": [
     {
@@ -605,6 +609,38 @@
       "link": "https://www.leparisien.fr/sports/football/psg/psg-un-fond-blanc-des-ailes-noires-le-maillot-wings-en-passe-de-faire-son-retour-25-11-2026-BG5GY3FTUFBTJPYD4DKYU53PR4.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_psg_psg-un-fond-blanc-des-ailes-n.png",
       "date": "2026-11-27T14:21:06.420374+00:00"
+    },
+    {
+      "id": "fdgoal-565869-0-1",
+      "type": "event",
+      "title": "Bremen 0 - 1 M'gladbach",
+      "message": "⚽ BUUUT ! M'gladbach marque.\n\n📊 Bremen 0 - 1 M'gladbach\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565869-0-1.png",
+      "date": "2026-11-27T20:03:19.686548+00:00"
+    },
+    {
+      "id": "fdgoal-558515-1-0",
+      "type": "event",
+      "title": "Venezia FC 1 - 0 Bologna",
+      "message": "⚽ BUUUT ! Venezia FC marque.\n\n📊 Venezia FC 1 - 0 Bologna\n🏆 Serie A\n\n#Football #SerieA #Direct",
+      "image": "cards/fdgoal-558515-1-0.png",
+      "date": "2026-11-27T20:05:54.609890+00:00"
+    },
+    {
+      "id": "fdgoal-559616-1-0",
+      "type": "event",
+      "title": "Brest 1 - 0 Paris FC",
+      "message": "⚽ BUUUT ! Brest marque.\n\n📊 Brest 1 - 0 Paris FC\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559616-1-0.png",
+      "date": "2026-11-27T20:12:08.513650+00:00"
+    },
+    {
+      "id": "fdgoal-560658-1-0",
+      "type": "event",
+      "title": "Nottingham 1 - 0 Chelsea",
+      "message": "⚽ BUUUT ! Nottingham marque.\n\n📊 Nottingham 1 - 0 Chelsea\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560658-1-0.png",
+      "date": "2026-11-27T20:12:13.015960+00:00"
     }
   ],
   "feed_health": {
@@ -762,21 +798,29 @@
     ],
     "565869": [
       0,
-      0
+      1
     ],
     "558515": [
       0,
       0
     ],
     "559616": [
+      1,
+      0
+    ],
+    "560658": [
+      1,
+      0
+    ],
+    "564765": [
       0,
       0
     ]
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 33,
-    "last": "2026-11-27T19:47:36.499478+00:00"
+    "n": 40,
+    "last": "2026-11-27T20:11:48.974354+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1034,8 +1078,28 @@
       "h": "Club Brugge",
       "a": "Liverpool",
       "n": 3
+    },
+    {
+      "h": "Bremen",
+      "a": "M'gladbach",
+      "n": 1
+    },
+    {
+      "h": "Venezia FC",
+      "a": "Bologna",
+      "n": 1
+    },
+    {
+      "h": "Brest",
+      "a": "Paris FC",
+      "n": 1
+    },
+    {
+      "h": "Nottingham",
+      "a": "Chelsea",
+      "n": 1
     }
   ],
-  "apif_urgent": "2026-11-25T22:01:04.661810+00:00",
+  "apif_urgent": "2026-11-27T20:22:04.170265+00:00",
   "_cap_logged": "2026-11-25"
 }
