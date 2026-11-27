@@ -27,7 +27,13 @@
     "news-https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/le-senegal-designe-vainqueur-de-la-can-2025-le-tas-a-rendu-justice-au-sport-les-lions-de-la-teranga-jubilent-apres-leur-victoire-24-11-2026-DZBJADLQOJAG7DY6HTGHZ75KSA.php",
     "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-le-grand-rex-a-paris-ouvrira-ses-portes-dimanche-pour-une-diffusion-geante-de-la-finale-24-11-2026-D7KWB5FGUZDA7DUDBVPU43WYJI.php",
     "news-https://www.leparisien.fr/sports/tennis/les-courts-me-manquent-enormement-jannik-sinner-opere-du-genou-droit-apres-des-mois-de-douleur-24-11-2026-JU5VMRY2TVARNDWYZQTT5DOPBE.php",
-    "news-https://www.leparisien.fr/sports/football/ligue-1/rennes-le-gardien-kilian-belazzoug-en-passe-de-prolonger-jusquen-2030-24-11-2026-S4HUJA46XRGIBAJOCSV7N6CEGQ.php"
+    "news-https://www.leparisien.fr/sports/football/ligue-1/rennes-le-gardien-kilian-belazzoug-en-passe-de-prolonger-jusquen-2030-24-11-2026-S4HUJA46XRGIBAJOCSV7N6CEGQ.php",
+    "news-https://www.leparisien.fr/sports/on-ne-peut-que-dire-aux-sportives-demerdez-vous-face-aux-tests-de-feminite-imposes-par-le-cio-la-france-dans-une-impasse-24-11-2026-DIUPQBQAH5CSLAV4TWPK6W2I3A.php",
+    "news-https://www.leparisien.fr/sports/football/plutot-la-mort-que-la-souillure-cyril-hanouna-recale-par-len-avant-guingamp-apres-la-fronde-des-supporters-24-11-2026-TXVKQZ5Y6JEFDKQHZWBCAVE7JE.php",
+    "news-https://www.leparisien.fr/sports/football/coupe-du-monde/merci-a-gianni-infantino-donald-trump-salue-le-president-de-la-fifa-apres-lattribution-du-mondial-feminin-2031-aux-etats-unis-24-11-2026-IHW5FIWH2JHBJOJB7GSBZOLAC4.php",
+    "news-https://www.leparisien.fr/sports/elle-plongeait-a-92-m-sans-respirer-lancienne-championne-du-monde-dapnee-jeanine-grasmeijer-est-decedee-a-33-ans-24-11-2026-XEKXPZ76WRBPRECHQLUA6LGY2U.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/leipzig-lens-3-1-les-sang-et-or-payent-cher-leur-debut-de-match-rate-et-chutent-encore-en-ligue-des-champions-24-11-2026-2WMQF2HMRJE7ZIAVMCTFLYFKC4.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-combien-de-points-faut-il-a-paris-pour-se-qualifier-directement-pour-les-8es-de-finale-de-la-ligue-des-champions-25-11-2026-G4DUI2EVJZFJJJI3GJ6EFT55DA.php"
   ],
   "history": [
     {
@@ -265,6 +271,60 @@
       "link": "https://www.leparisien.fr/sports/football/ligue-1/rennes-le-gardien-kilian-belazzoug-en-passe-de-prolonger-jusquen-2030-24-11-2026-S4HUJA46XRGIBAJOCSV7N6CEGQ.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-1_rennes-le-gardien-kilian-.png",
       "date": "2026-11-27T11:20:45.374110+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/on-ne-peut-que-dire-aux-sportives-demerdez-vous-face-aux-tests-de-feminite-imposes-par-le-cio-la-france-dans-une-impasse-24-11-2026-DIUPQBQAH5CSLAV4TWPK6W2I3A.php",
+      "type": "news",
+      "title": "« On ne peut que dire aux sportives démerdez-vous ! », face aux tests de féminité imposés par le CIO, la France dans une impasse",
+      "message": "🚨 « On ne peut que dire aux sportives démerdez-vous ! », face aux tests de féminité imposés par le CIO, la France dans une impasse\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/on-ne-peut-que-dire-aux-sportives-demerdez-vous-face-aux-tests-de-feminite-imposes-par-le-cio-la-france-dans-une-impasse-24-11-2026-DIUPQBQAH5CSLAV4TWPK6W2I3A.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_on-ne-peut-que-dire-aux-sportives-demerdez.png",
+      "date": "2026-11-27T11:50:21.938883+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/plutot-la-mort-que-la-souillure-cyril-hanouna-recale-par-len-avant-guingamp-apres-la-fronde-des-supporters-24-11-2026-TXVKQZ5Y6JEFDKQHZWBCAVE7JE.php",
+      "type": "news",
+      "title": "« Plutôt la mort que la souillure » : Cyril Hanouna recalé par l’En Avant Guingamp après la fronde des supporters",
+      "message": "🚨 « Plutôt la mort que la souillure » : Cyril Hanouna recalé par l’En Avant Guingamp après la fronde des supporters\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/plutot-la-mort-que-la-souillure-cyril-hanouna-recale-par-len-avant-guingamp-apres-la-fronde-des-supporters-24-11-2026-TXVKQZ5Y6JEFDKQHZWBCAVE7JE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_plutot-la-mort-que-la-souillure-c.png",
+      "date": "2026-11-27T11:50:24.647021+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/coupe-du-monde/merci-a-gianni-infantino-donald-trump-salue-le-president-de-la-fifa-apres-lattribution-du-mondial-feminin-2031-aux-etats-unis-24-11-2026-IHW5FIWH2JHBJOJB7GSBZOLAC4.php",
+      "type": "news",
+      "title": "« Merci à Gianni Infantino » : Donald Trump salue le président de la Fifa après l’attribution du Mondial féminin 2031 aux États-Unis",
+      "message": "🚨 « Merci à Gianni Infantino » : Donald Trump salue le président de la Fifa après l’attribution du Mondial féminin 2031 aux États-Unis\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/coupe-du-monde/merci-a-gianni-infantino-donald-trump-salue-le-president-de-la-fifa-apres-lattribution-du-mondial-feminin-2031-aux-etats-unis-24-11-2026-IHW5FIWH2JHBJOJB7GSBZOLAC4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_coupe-du-monde_merci-a-gianni-inf.png",
+      "date": "2026-11-27T11:50:27.818095+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/elle-plongeait-a-92-m-sans-respirer-lancienne-championne-du-monde-dapnee-jeanine-grasmeijer-est-decedee-a-33-ans-24-11-2026-XEKXPZ76WRBPRECHQLUA6LGY2U.php",
+      "type": "news",
+      "title": "Elle plongeait à 92 m sans respirer : l’ancienne championne du monde d’apnée Jeanine Grasmeijer est décédée à 33 ans",
+      "message": "🚨 Elle plongeait à 92 m sans respirer : l’ancienne championne du monde d’apnée Jeanine Grasmeijer est décédée à 33 ans\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/elle-plongeait-a-92-m-sans-respirer-lancienne-championne-du-monde-dapnee-jeanine-grasmeijer-est-decedee-a-33-ans-24-11-2026-XEKXPZ76WRBPRECHQLUA6LGY2U.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_elle-plongeait-a-92-m-sans-respirer-lancie.png",
+      "date": "2026-11-27T11:50:31.649558+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/leipzig-lens-3-1-les-sang-et-or-payent-cher-leur-debut-de-match-rate-et-chutent-encore-en-ligue-des-champions-24-11-2026-2WMQF2HMRJE7ZIAVMCTFLYFKC4.php",
+      "type": "news",
+      "title": "Leipzig-Lens (3-1) : les Sang et Or payent cher leur début de match raté et chutent encore en Ligue des champions",
+      "message": "🚨 Leipzig-Lens (3-1) : les Sang et Or payent cher leur début de match raté et chutent encore en Ligue des champions\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/leipzig-lens-3-1-les-sang-et-or-payent-cher-leur-debut-de-match-rate-et-chutent-encore-en-ligue-des-champions-24-11-2026-2WMQF2HMRJE7ZIAVMCTFLYFKC4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_leipzig-lens-.png",
+      "date": "2026-11-27T11:50:35.147181+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-combien-de-points-faut-il-a-paris-pour-se-qualifier-directement-pour-les-8es-de-finale-de-la-ligue-des-champions-25-11-2026-G4DUI2EVJZFJJJI3GJ6EFT55DA.php",
+      "type": "news",
+      "title": "PSG - AS Rome : combien de points faut-il à Paris pour se qualifier directement pour les 8es de finale de la Ligue des champions ?",
+      "message": "🚨 PSG - AS Rome : combien de points faut-il à Paris pour se qualifier directement pour les 8es de finale de la Ligue des champions ?\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-combien-de-points-faut-il-a-paris-pour-se-qualifier-directement-pour-les-8es-de-finale-de-la-ligue-des-champions-25-11-2026-G4DUI2EVJZFJJJI3GJ6EFT55DA.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-c.png",
+      "date": "2026-11-27T11:50:38.329959+00:00"
     }
   ],
   "feed_health": {
@@ -279,9 +339,7 @@
     "https://www.lefigaro.fr/rss/figaro_sport.xml": {},
     "https://www.lemonde.fr/sport/rss_full.xml": {},
     "https://www.francetvinfo.fr/sports.rss": {},
-    "https://www.france24.com/fr/sports/rss": {
-      "fails": 1
-    },
+    "https://www.france24.com/fr/sports/rss": {},
     "https://www.rfi.fr/fr/sport/rss": {},
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
