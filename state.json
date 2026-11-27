@@ -67,7 +67,8 @@
     "fdgoal-559616-1-0",
     "fdgoal-560658-1-0",
     "fdgoal-565869-1-1",
-    "fdgoal-565869-1-2"
+    "fdgoal-565869-1-2",
+    "fdgoal-564765-1-0"
   ],
   "history": [
     {
@@ -659,6 +660,14 @@
       "message": "⚽ BUUUT ! M'gladbach marque.\n\n📊 Bremen 1 - 2 M'gladbach\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
       "image": "cards/fdgoal-565869-1-2.png",
       "date": "2026-11-27T20:45:38.369424+00:00"
+    },
+    {
+      "id": "fdgoal-564765-1-0",
+      "type": "event",
+      "title": "Levante 1 - 0 Santander",
+      "message": "⚽ BUUUT ! Levante marque.\n\n📊 Levante 1 - 0 Santander\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564765-1-0.png",
+      "date": "2026-11-27T20:50:51.204463+00:00"
     }
   ],
   "feed_health": {
@@ -678,57 +687,57 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.actufoot.com/feed": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 17,
-      "next": "2026-11-27T20:50:53.311269+00:00"
+      "fails": 18,
+      "next": "2026-11-28T03:00:44.692104+00:00"
     }
   },
   "lineup_calls": {
@@ -831,14 +840,14 @@
       0
     ],
     "564765": [
-      0,
+      1,
       0
     ]
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 50,
-    "last": "2026-11-27T20:45:33.593375+00:00"
+    "n": 59,
+    "last": "2026-11-27T20:59:58.728629+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1126,8 +1135,13 @@
       "h": "Bremen",
       "a": "M'gladbach",
       "n": 3
+    },
+    {
+      "h": "Levante",
+      "a": "Santander",
+      "n": 1
     }
   ],
-  "apif_urgent": "2026-11-27T20:55:33.593335+00:00",
+  "apif_urgent": "2026-11-27T21:00:45.835071+00:00",
   "_cap_logged": "2026-11-25"
 }
