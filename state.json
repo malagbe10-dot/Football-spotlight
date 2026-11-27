@@ -45,7 +45,13 @@
     "news-https://www.leparisien.fr/sports/football/ligue-des-champions/je-suis-fatigue-florian-thauvin-ecourte-une-interview-apres-la-nouvelle-deroute-du-rc-lens-en-ligue-des-champions-25-11-2026-6MNIHU5AYNFHZLJK7HQDFSZQVM.php",
     "news-https://www.leparisien.fr/sports/football/bresil-deux-ingenieurs-condamnes-a-huit-ans-de-prison-apres-la-mort-de-dix-joueurs-du-centre-de-formation-de-flamengo-25-11-2026-LTGMU7SN3FHRZEJGUO2RMIXHN4.php",
     "news-https://www.leparisien.fr/sports/football/ligue-des-champions/je-voudrais-commencer-avec-quelque-chose-de-plus-important-que-le-football-le-beau-message-de-soutien-de-rayan-cherki-a-desire-doue-25-11-2026-QZGIOAHGJZAE3OYNUGY6AHSPYM.php",
-    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-le-groupe-des-23-joueurs-parisiens-retenus-par-luis-enrique-pour-le-5e-match-de-ligue-des-champions-25-11-2026-ZLG567ZBTBFHBDR7M3MMHF7VPE.php"
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-le-groupe-des-23-joueurs-parisiens-retenus-par-luis-enrique-pour-le-5e-match-de-ligue-des-champions-25-11-2026-ZLG567ZBTBFHBDR7M3MMHF7VPE.php",
+    "news-https://www.leparisien.fr/sports/rugby/rugby-le-prix-jaureguy-dominici-decerne-a-philippe-sella-25-11-2026-MPOI5ODD7VGUHDPQHC5BZ5G5FM.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/aujourdhui-on-a-deux-mvp-le-geste-fort-de-kylian-mbappe-envers-vinicius-jr-apres-la-victoire-du-real-madrid-25-11-2026-S2RZXWC5WFES7ERZ36UY2MBZOM.php",
+    "news-https://www.leparisien.fr/sports/football/football-nouveau-duel-maroc-senegal-pour-le-titre-de-joueur-africain-de-lannee-25-11-2026-BL2QL76TGJCVJMWMYV4GOCMRXI.php",
+    "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-il-a-une-revanche-a-prendre-thomas-ramos-le-retour-dun-patron-25-11-2026-KDDT2GFJFZFGFM2HWWXK3VGNXY.php",
+    "news-https://www.leparisien.fr/sports/football/conduite-dangereuse-gaz-hilarant-lancien-footballeurs-international-anglais-raheem-sterling-condamne-a-un-an-de-prison-avec-sursis-25-11-2026-XXKOIFBALNB7HLSPHIQEBPFOL4.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-1/je-suis-sur-un-beau-club-de-ligue-1-cyril-hanouna-ninvestira-pas-a-guingamp-mais-reste-interesse-par-le-football-25-11-2026-7QGDEHN5ZZCGNKZ4FDNBSSOPQ4.php"
   ],
   "history": [
     {
@@ -445,6 +451,60 @@
       "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-le-groupe-des-23-joueurs-parisiens-retenus-par-luis-enrique-pour-le-5e-match-de-ligue-des-champions-25-11-2026-ZLG567ZBTBFHBDR7M3MMHF7VPE.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-l.png",
       "date": "2026-11-27T12:50:53.482145+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/rugby/rugby-le-prix-jaureguy-dominici-decerne-a-philippe-sella-25-11-2026-MPOI5ODD7VGUHDPQHC5BZ5G5FM.php",
+      "type": "news",
+      "title": "Rugby : le prix Jauréguy-Dominici décerné à Philippe Sella",
+      "message": "🚨 Rugby : le prix Jauréguy-Dominici décerné à Philippe Sella\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/rugby/rugby-le-prix-jaureguy-dominici-decerne-a-philippe-sella-25-11-2026-MPOI5ODD7VGUHDPQHC5BZ5G5FM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_rugby_rugby-le-prix-jaureguy-dominici-dece.png",
+      "date": "2026-11-27T13:20:43.252275+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/aujourdhui-on-a-deux-mvp-le-geste-fort-de-kylian-mbappe-envers-vinicius-jr-apres-la-victoire-du-real-madrid-25-11-2026-S2RZXWC5WFES7ERZ36UY2MBZOM.php",
+      "type": "news",
+      "title": "« Aujourd’hui, on a deux MVP » : le geste fort de Kylian Mbappé envers Vinicius Jr après la victoire du Real Madrid",
+      "message": "🚨 « Aujourd’hui, on a deux MVP » : le geste fort de Kylian Mbappé envers Vinicius Jr après la victoire du Real Madrid\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/aujourdhui-on-a-deux-mvp-le-geste-fort-de-kylian-mbappe-envers-vinicius-jr-apres-la-victoire-du-real-madrid-25-11-2026-S2RZXWC5WFES7ERZ36UY2MBZOM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_aujourdhui-on.png",
+      "date": "2026-11-27T13:20:46.076595+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/football-nouveau-duel-maroc-senegal-pour-le-titre-de-joueur-africain-de-lannee-25-11-2026-BL2QL76TGJCVJMWMYV4GOCMRXI.php",
+      "type": "news",
+      "title": "Football : nouveau duel Maroc-Sénégal pour le titre de joueur africain de l’année",
+      "message": "🚨 Football : nouveau duel Maroc-Sénégal pour le titre de joueur africain de l’année\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/football-nouveau-duel-maroc-senegal-pour-le-titre-de-joueur-africain-de-lannee-25-11-2026-BL2QL76TGJCVJMWMYV4GOCMRXI.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_football-nouveau-duel-maroc-seneg.png",
+      "date": "2026-11-27T13:20:48.992599+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-il-a-une-revanche-a-prendre-thomas-ramos-le-retour-dun-patron-25-11-2026-KDDT2GFJFZFGFM2HWWXK3VGNXY.php",
+      "type": "news",
+      "title": "France-Afrique du Sud : « Il a une revanche à prendre », Thomas Ramos, le retour d’un patron",
+      "message": "🚨 France-Afrique du Sud : « Il a une revanche à prendre », Thomas Ramos, le retour d’un patron\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/rugby/xv-de-france/france-afrique-du-sud-il-a-une-revanche-a-prendre-thomas-ramos-le-retour-dun-patron-25-11-2026-KDDT2GFJFZFGFM2HWWXK3VGNXY.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_rugby_xv-de-france_france-afrique-du-sud-i.png",
+      "date": "2026-11-27T13:20:52.130188+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/conduite-dangereuse-gaz-hilarant-lancien-footballeurs-international-anglais-raheem-sterling-condamne-a-un-an-de-prison-avec-sursis-25-11-2026-XXKOIFBALNB7HLSPHIQEBPFOL4.php",
+      "type": "news",
+      "title": "Conduite dangereuse, gaz hilarant : l’ancien footballeurs international anglais Raheem Sterling condamné à un an de prison avec sursis",
+      "message": "🚨 Conduite dangereuse, gaz hilarant : l’ancien footballeurs international anglais Raheem Sterling condamné à un an de prison avec sursis\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/conduite-dangereuse-gaz-hilarant-lancien-footballeurs-international-anglais-raheem-sterling-condamne-a-un-an-de-prison-avec-sursis-25-11-2026-XXKOIFBALNB7HLSPHIQEBPFOL4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_conduite-dangereuse-gaz-hilarant-.png",
+      "date": "2026-11-27T13:20:55.144201+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-1/je-suis-sur-un-beau-club-de-ligue-1-cyril-hanouna-ninvestira-pas-a-guingamp-mais-reste-interesse-par-le-football-25-11-2026-7QGDEHN5ZZCGNKZ4FDNBSSOPQ4.php",
+      "type": "news",
+      "title": "« Je suis sur un beau club de Ligue 1 » : Cyril Hanouna n’investira pas à Guingamp mais reste intéressé par le football",
+      "message": "🚨 « Je suis sur un beau club de Ligue 1 » : Cyril Hanouna n’investira pas à Guingamp mais reste intéressé par le football\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-1/je-suis-sur-un-beau-club-de-ligue-1-cyril-hanouna-ninvestira-pas-a-guingamp-mais-reste-interesse-par-le-football-25-11-2026-7QGDEHN5ZZCGNKZ4FDNBSSOPQ4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-1_je-suis-sur-un-beau-club-.png",
+      "date": "2026-11-27T13:20:58.547668+00:00"
     }
   ],
   "feed_health": {
@@ -603,8 +663,8 @@
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 4,
-    "last": "2026-11-27T12:44:04.836669+00:00"
+    "n": 6,
+    "last": "2026-11-27T13:13:12.588703+00:00"
   },
   "live_fixtures": [
     1635641,
