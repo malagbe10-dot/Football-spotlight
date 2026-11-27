@@ -73,7 +73,10 @@
     "fdgoal-560658-2-0",
     "fdgoal-560658-2-1",
     "fdgoal-565869-2-3",
-    "fdgoal-565869-3-3"
+    "fdgoal-565869-3-3",
+    "fdgoal-564765-1-1",
+    "fdgoal-560658-3-1",
+    "fdgoal-564765-1-2"
   ],
   "history": [
     {
@@ -713,6 +716,30 @@
       "message": "⚽ BUUUT ! Bremen marque.\n\n📊 Bremen 3 - 3 M'gladbach\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
       "image": "cards/fdgoal-565869-3-3.png",
       "date": "2026-11-27T21:28:54.962946+00:00"
+    },
+    {
+      "id": "fdgoal-564765-1-1",
+      "type": "event",
+      "title": "Levante 1 - 1 Santander",
+      "message": "⚽ BUUUT ! Santander marque.\n\n📊 Levante 1 - 1 Santander\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564765-1-1.png",
+      "date": "2026-11-27T21:32:42.584648+00:00"
+    },
+    {
+      "id": "fdgoal-560658-3-1",
+      "type": "event",
+      "title": "Nottingham 3 - 1 Chelsea",
+      "message": "⚽ BUUUT ! Nottingham marque.\n\n📊 Nottingham 3 - 1 Chelsea\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560658-3-1.png",
+      "date": "2026-11-27T21:37:42.927774+00:00"
+    },
+    {
+      "id": "fdgoal-564765-1-2",
+      "type": "event",
+      "title": "Levante 1 - 2 Santander",
+      "message": "⚽ BUUUT ! Santander marque.\n\n📊 Levante 1 - 2 Santander\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564765-1-2.png",
+      "date": "2026-11-27T21:46:33.385901+00:00"
     }
   ],
   "feed_health": {
@@ -881,18 +908,18 @@
       0
     ],
     "560658": [
-      2,
+      3,
       1
     ],
     "564765": [
       1,
-      0
+      2
     ]
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 68,
-    "last": "2026-11-27T21:27:25.249884+00:00"
+    "n": 70,
+    "last": "2026-11-27T21:30:37.674140+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1210,8 +1237,23 @@
       "h": "Bremen",
       "a": "M'gladbach",
       "n": 6
+    },
+    {
+      "h": "Levante",
+      "a": "Santander",
+      "n": 2
+    },
+    {
+      "h": "Nottingham",
+      "a": "Chelsea",
+      "n": 4
+    },
+    {
+      "h": "Levante",
+      "a": "Santander",
+      "n": 3
     }
   ],
-  "apif_urgent": "2026-11-27T21:38:50.478975+00:00",
-  "_cap_logged": "2026-11-25"
+  "apif_urgent": "2026-11-27T21:56:29.374816+00:00",
+  "_cap_logged": "2026-11-27"
 }
