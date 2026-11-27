@@ -33,7 +33,13 @@
     "news-https://www.leparisien.fr/sports/football/coupe-du-monde/merci-a-gianni-infantino-donald-trump-salue-le-president-de-la-fifa-apres-lattribution-du-mondial-feminin-2031-aux-etats-unis-24-11-2026-IHW5FIWH2JHBJOJB7GSBZOLAC4.php",
     "news-https://www.leparisien.fr/sports/elle-plongeait-a-92-m-sans-respirer-lancienne-championne-du-monde-dapnee-jeanine-grasmeijer-est-decedee-a-33-ans-24-11-2026-XEKXPZ76WRBPRECHQLUA6LGY2U.php",
     "news-https://www.leparisien.fr/sports/football/ligue-des-champions/leipzig-lens-3-1-les-sang-et-or-payent-cher-leur-debut-de-match-rate-et-chutent-encore-en-ligue-des-champions-24-11-2026-2WMQF2HMRJE7ZIAVMCTFLYFKC4.php",
-    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-combien-de-points-faut-il-a-paris-pour-se-qualifier-directement-pour-les-8es-de-finale-de-la-ligue-des-champions-25-11-2026-G4DUI2EVJZFJJJI3GJ6EFT55DA.php"
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-combien-de-points-faut-il-a-paris-pour-se-qualifier-directement-pour-les-8es-de-finale-de-la-ligue-des-champions-25-11-2026-G4DUI2EVJZFJJJI3GJ6EFT55DA.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-montrer-que-paris-est-toujours-doue-25-11-2026-EA6BFJ5LNZBCJL4UFAQN63UPFI.php",
+    "news-https://www.leparisien.fr/sports/football/finale-polemique-tensions-actions-en-justice-pourquoi-le-senegal-a-ete-declare-vainqueur-de-la-can-2025-25-11-2026-OIZ7NSS5D5G6JMKYFFLQ2Z4UPM.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-treize-ans-apres-son-arrivee-a-paris-marquinhos-est-devenu-un-monument-25-11-2026-Z3GLXCHRSNGPRDSRZ3W63HKCNE.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-pourquoi-leonardo-balerdi-le-nouveau-roc-romain-offrira-un-gros-cheque-a-marseille-sil-joue-beaucoup-25-11-2026-G7REVHDEZNCBFKEINOFWBHDI2A.php",
+    "news-https://www.leparisien.fr/sports/tennis/je-serai-innocente-de-cette-accusation-le-tennisman-arthur-rinderknech-dement-avoir-refuse-de-se-soumettre-a-un-controle-antidopage-25-11-2026-4A5Y52CIXJBAZCEEYCNGGW63G4.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/marquinhos-cest-le-numero-un-luis-fernandez-fait-du-bresilien-la-legende-du-psg-25-11-2026-7SQ2J2VBVBBEDARRW236CLIEPM.php"
   ],
   "history": [
     {
@@ -325,6 +331,60 @@
       "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-combien-de-points-faut-il-a-paris-pour-se-qualifier-directement-pour-les-8es-de-finale-de-la-ligue-des-champions-25-11-2026-G4DUI2EVJZFJJJI3GJ6EFT55DA.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-c.png",
       "date": "2026-11-27T11:50:38.329959+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-montrer-que-paris-est-toujours-doue-25-11-2026-EA6BFJ5LNZBCJL4UFAQN63UPFI.php",
+      "type": "news",
+      "title": "PSG-AS Rome : montrer que Paris est toujours doué",
+      "message": "🚨 PSG-AS Rome : montrer que Paris est toujours doué\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-montrer-que-paris-est-toujours-doue-25-11-2026-EA6BFJ5LNZBCJL4UFAQN63UPFI.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-m.png",
+      "date": "2026-11-27T12:20:29.770711+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/finale-polemique-tensions-actions-en-justice-pourquoi-le-senegal-a-ete-declare-vainqueur-de-la-can-2025-25-11-2026-OIZ7NSS5D5G6JMKYFFLQ2Z4UPM.php",
+      "type": "news",
+      "title": "Finale polémique, tensions, actions en justice… Pourquoi le Sénégal a été déclaré vainqueur de la CAN 2025",
+      "message": "🚨 Finale polémique, tensions, actions en justice… Pourquoi le Sénégal a été déclaré vainqueur de la CAN 2025\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/finale-polemique-tensions-actions-en-justice-pourquoi-le-senegal-a-ete-declare-vainqueur-de-la-can-2025-25-11-2026-OIZ7NSS5D5G6JMKYFFLQ2Z4UPM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_finale-polemique-tensions-actions.png",
+      "date": "2026-11-27T12:20:32.966116+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-treize-ans-apres-son-arrivee-a-paris-marquinhos-est-devenu-un-monument-25-11-2026-Z3GLXCHRSNGPRDSRZ3W63HKCNE.php",
+      "type": "news",
+      "title": "PSG-AS Rome : treize ans après son arrivée à Paris, Marquinhos est devenu un monument",
+      "message": "🚨 PSG-AS Rome : treize ans après son arrivée à Paris, Marquinhos est devenu un monument\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-treize-ans-apres-son-arrivee-a-paris-marquinhos-est-devenu-un-monument-25-11-2026-Z3GLXCHRSNGPRDSRZ3W63HKCNE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-t.png",
+      "date": "2026-11-27T12:20:35.857509+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-pourquoi-leonardo-balerdi-le-nouveau-roc-romain-offrira-un-gros-cheque-a-marseille-sil-joue-beaucoup-25-11-2026-G7REVHDEZNCBFKEINOFWBHDI2A.php",
+      "type": "news",
+      "title": "PSG - AS Rome : pourquoi Leonardo Balerdi, le nouveau roc romain, offrira un gros chèque à Marseille s’il joue beaucoup",
+      "message": "🚨 PSG - AS Rome : pourquoi Leonardo Balerdi, le nouveau roc romain, offrira un gros chèque à Marseille s’il joue beaucoup\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-pourquoi-leonardo-balerdi-le-nouveau-roc-romain-offrira-un-gros-cheque-a-marseille-sil-joue-beaucoup-25-11-2026-G7REVHDEZNCBFKEINOFWBHDI2A.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-p.png",
+      "date": "2026-11-27T12:20:38.853915+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/tennis/je-serai-innocente-de-cette-accusation-le-tennisman-arthur-rinderknech-dement-avoir-refuse-de-se-soumettre-a-un-controle-antidopage-25-11-2026-4A5Y52CIXJBAZCEEYCNGGW63G4.php",
+      "type": "news",
+      "title": "« Je serai innocenté de cette accusation » : le tennisman Arthur Rinderknech dément avoir refusé de se soumettre à un contrôle antidopage",
+      "message": "🚨 « Je serai innocenté de cette accusation » : le tennisman Arthur Rinderknech dément avoir refusé de se soumettre à un contrôle antidopage\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/tennis/je-serai-innocente-de-cette-accusation-le-tennisman-arthur-rinderknech-dement-avoir-refuse-de-se-soumettre-a-un-controle-antidopage-25-11-2026-4A5Y52CIXJBAZCEEYCNGGW63G4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_tennis_je-serai-innocente-de-cette-accusat.png",
+      "date": "2026-11-27T12:20:42.398143+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/marquinhos-cest-le-numero-un-luis-fernandez-fait-du-bresilien-la-legende-du-psg-25-11-2026-7SQ2J2VBVBBEDARRW236CLIEPM.php",
+      "type": "news",
+      "title": "« Marquinhos, c’est le numéro un ! » : Luis Fernandez fait du Brésilien « LA légende » du PSG",
+      "message": "🚨 « Marquinhos, c’est le numéro un ! » : Luis Fernandez fait du Brésilien « LA légende » du PSG\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/marquinhos-cest-le-numero-un-luis-fernandez-fait-du-bresilien-la-legende-du-psg-25-11-2026-7SQ2J2VBVBBEDARRW236CLIEPM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_marquinhos-ce.png",
+      "date": "2026-11-27T12:20:45.578290+00:00"
     }
   ],
   "feed_health": {
@@ -339,7 +399,9 @@
     "https://www.lefigaro.fr/rss/figaro_sport.xml": {},
     "https://www.lemonde.fr/sport/rss_full.xml": {},
     "https://www.francetvinfo.fr/sports.rss": {},
-    "https://www.france24.com/fr/sports/rss": {},
+    "https://www.france24.com/fr/sports/rss": {
+      "fails": 1
+    },
     "https://www.rfi.fr/fr/sport/rss": {},
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
@@ -482,9 +544,9 @@
     ]
   },
   "live_calls": {
-    "date": "2026-11-26",
-    "n": 50,
-    "last": "2026-11-26T23:55:33.891329+00:00"
+    "date": "2026-11-27",
+    "n": 2,
+    "last": "2026-11-27T12:14:48.944930+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -745,6 +807,5 @@
     }
   ],
   "apif_urgent": "2026-11-25T22:01:04.661810+00:00",
-  "_cap_logged": "2026-11-25",
-  "_out_logged": true
+  "_cap_logged": "2026-11-25"
 }
