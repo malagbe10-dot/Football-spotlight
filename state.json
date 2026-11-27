@@ -66,7 +66,8 @@
     "fdgoal-558515-1-0",
     "fdgoal-559616-1-0",
     "fdgoal-560658-1-0",
-    "fdgoal-565869-1-1"
+    "fdgoal-565869-1-1",
+    "fdgoal-565869-1-2"
   ],
   "history": [
     {
@@ -650,6 +651,14 @@
       "message": "⚽ BUUUT ! Bremen marque.\n\n📊 Bremen 1 - 1 M'gladbach\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
       "image": "cards/fdgoal-565869-1-1.png",
       "date": "2026-11-27T20:15:49.987848+00:00"
+    },
+    {
+      "id": "fdgoal-565869-1-2",
+      "type": "event",
+      "title": "Bremen 1 - 2 M'gladbach",
+      "message": "⚽ BUUUT ! M'gladbach marque.\n\n📊 Bremen 1 - 2 M'gladbach\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565869-1-2.png",
+      "date": "2026-11-27T20:45:38.369424+00:00"
     }
   ],
   "feed_health": {
@@ -807,7 +816,7 @@
     ],
     "565869": [
       1,
-      1
+      2
     ],
     "558515": [
       0,
@@ -828,8 +837,8 @@
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 48,
-    "last": "2026-11-27T20:24:31.691243+00:00"
+    "n": 50,
+    "last": "2026-11-27T20:45:33.593375+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1112,8 +1121,13 @@
       "h": "Bremen",
       "a": "M'gladbach",
       "n": 2
+    },
+    {
+      "h": "Bremen",
+      "a": "M'gladbach",
+      "n": 3
     }
   ],
-  "apif_urgent": "2026-11-27T20:25:45.255518+00:00",
+  "apif_urgent": "2026-11-27T20:55:33.593335+00:00",
   "_cap_logged": "2026-11-25"
 }
