@@ -78,7 +78,13 @@
     "fdgoal-560658-3-1",
     "fdgoal-564765-1-2",
     "fdgoal-560658-3-2",
-    "fdgoal-564765-1-3"
+    "fdgoal-564765-1-3",
+    "fixtures-2026-11-28",
+    "result-558820",
+    "result-565869",
+    "result-559616",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/direct-lille-bayern-munich-les-dogues-en-quete-dun-exploit-en-ligue-des-champions-25-11-2026-HHBYSVSGPBBYROXUTHONMTIBHM.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-la-composition-officielle-des-parisiens-avec-akliouche-mayulu-et-torres-alignes-en-attaque-25-11-2026-L7WCSYKX2JHMDMHWLENXCO2UAU.php"
   ],
   "history": [
     {
@@ -758,6 +764,56 @@
       "message": "⚽ BUUUT ! Santander marque.\n\n📊 Levante 1 - 3 Santander\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
       "image": "cards/fdgoal-564765-1-3.png",
       "date": "2026-11-27T22:00:35.131445+00:00"
+    },
+    {
+      "id": "fixtures-2026-11-28",
+      "type": "fixtures",
+      "title": "Matchs du samedi 28 novembre 2026",
+      "message": "📅 MATCHS DU JOUR – samedi 28 novembre 2026\n\n🕒 12:30 – Lincoln City vs Wolverhampton (Championship)\n🕒 12:30 – Blackburn vs Charlton (Championship)\n🕒 12:30 – Preston NE vs Norwich (Championship)\n🕒 13:00 – Real Betis vs Rayo Vallecano (Primera Division)\n🕒 14:00 – Frosinone vs Parma (Serie A)\n🕒 14:30 – SC Paderborn vs Schalke (Bundesliga)\n🕒 14:30 – 1. FC Köln vs Elversberg (Bundesliga)\n🕒 14:30 – HSV vs Bayern (Bundesliga)\n🕒 14:30 – Mainz vs Union Berlin (Bundesliga)\n🕒 15:00 – West Ham vs Stoke (Championship)\n🕒 15:00 – Man United vs Brentford (Premier League)\n🕒 15:00 – Birmingham vs Bolton (Championship)\n🕒 15:00 – QPR vs Sheffield Utd (Championship)\n🕒 15:00 – Leeds United vs Coventry City (Premier League)\n🕒 15:00 – Wrexham vs Portsmouth (Championship)\n\n🔥 Bon match à tous !\n\n#Football",
+      "image": "cards/fixtures-2026-11-28.png",
+      "date": "2026-11-28T00:11:12.000122+00:00"
+    },
+    {
+      "id": "result-558820",
+      "type": "score",
+      "title": "Groningen 1 - 1 Willem II",
+      "message": "⏱️ TERMINÉ\n\n⚽ GRONINGEN 1 - 1 WILLEM II\n\n🤝 Match nul\n🏆 Eredivisie · Journée 14\n\n#Football #Eredivisie",
+      "image": "cards/result-558820.png",
+      "date": "2026-11-28T00:11:16.713445+00:00"
+    },
+    {
+      "id": "result-565869",
+      "type": "score",
+      "title": "Bremen 3 - 3 M'gladbach",
+      "message": "⏱️ TERMINÉ\n\n⚽ BREMEN 3 - 3 M'GLADBACH\n\n🤝 Match nul\n🏆 Bundesliga · Journée 11\n\n#Football #Bundesliga",
+      "image": "cards/result-565869.png",
+      "date": "2026-11-28T00:11:20.999993+00:00"
+    },
+    {
+      "id": "result-559616",
+      "type": "score",
+      "title": "Brest 1 - 0 Paris FC",
+      "message": "⏱️ TERMINÉ\n\n⚽ BREST 1 - 0 PARIS FC\n\n✅ Victoire de Brest\n🏆 Ligue 1 · Journée 12\n\n#Football #Ligue1",
+      "image": "cards/result-559616.png",
+      "date": "2026-11-28T00:11:26.215023+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/direct-lille-bayern-munich-les-dogues-en-quete-dun-exploit-en-ligue-des-champions-25-11-2026-HHBYSVSGPBBYROXUTHONMTIBHM.php",
+      "type": "news",
+      "title": "Lille-Bayern Munich (2-1) : le résumé de l'exploit des Dogues qui se relancent dans la course aux barrages",
+      "message": "🚨 Lille-Bayern Munich (2-1) : le résumé de l'exploit des Dogues qui se relancent dans la course aux barrages\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/direct-lille-bayern-munich-les-dogues-en-quete-dun-exploit-en-ligue-des-champions-25-11-2026-HHBYSVSGPBBYROXUTHONMTIBHM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_direct-lille-.png",
+      "date": "2026-11-28T00:11:29.758373+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-la-composition-officielle-des-parisiens-avec-akliouche-mayulu-et-torres-alignes-en-attaque-25-11-2026-L7WCSYKX2JHMDMHWLENXCO2UAU.php",
+      "type": "news",
+      "title": "PSG-AS Rome : la composition officielle des Parisiens avec Mayulu en attaque et Dembélé sur le banc",
+      "message": "🚨 PSG-AS Rome : la composition officielle des Parisiens avec Mayulu en attaque et Dembélé sur le banc\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-la-composition-officielle-des-parisiens-avec-akliouche-mayulu-et-torres-alignes-en-attaque-25-11-2026-L7WCSYKX2JHMDMHWLENXCO2UAU.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-l.png",
+      "date": "2026-11-28T00:11:33.569838+00:00"
     }
   ],
   "feed_health": {
@@ -1283,5 +1339,6 @@
     }
   ],
   "apif_urgent": "2026-11-27T22:10:30.583413+00:00",
-  "_cap_logged": "2026-11-27"
+  "_cap_logged": "2026-11-27",
+  "_out_logged": true
 }
