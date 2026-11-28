@@ -142,7 +142,11 @@
     "fdgoal-565866-5-0",
     "fdgoal-564767-1-4",
     "fdgoal-565868-6-1",
-    "fdgoal-565867-1-1"
+    "fdgoal-565867-1-1",
+    "fdgoal-565868-7-1",
+    "fdgoal-565867-2-1",
+    "fdgoal-560652-3-0",
+    "fdgoal-564767-2-4"
   ],
   "history": [
     {
@@ -1364,6 +1368,38 @@
       "message": "⚽ BUUUT ! Mainz marque.\n\n📊 Mainz 1 - 1 Union Berlin\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
       "image": "cards/fdgoal-565867-1-1.png",
       "date": "2026-11-28T16:20:55.229376+00:00"
+    },
+    {
+      "id": "fdgoal-565868-7-1",
+      "type": "event",
+      "title": "SC Paderborn 7 - 1 Schalke",
+      "message": "⚽ BUUUT ! SC Paderborn marque.\n\n📊 SC Paderborn 7 - 1 Schalke\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565868-7-1.png",
+      "date": "2026-11-28T16:23:33.202887+00:00"
+    },
+    {
+      "id": "fdgoal-565867-2-1",
+      "type": "event",
+      "title": "Mainz 2 - 1 Union Berlin",
+      "message": "⚽ BUUUT ! Mainz marque.\n\n📊 Mainz 2 - 1 Union Berlin\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565867-2-1.png",
+      "date": "2026-11-28T16:27:34.494763+00:00"
+    },
+    {
+      "id": "fdgoal-560652-3-0",
+      "type": "event",
+      "title": "Leeds United 3 - 0 Coventry City",
+      "message": "⚽ BUUUT ! Leeds United marque.\n\n📊 Leeds United 3 - 0 Coventry City\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560652-3-0.png",
+      "date": "2026-11-28T16:31:34.945202+00:00"
+    },
+    {
+      "id": "fdgoal-564767-2-4",
+      "type": "event",
+      "title": "Málaga 2 - 4 Athletic",
+      "message": "⚽ BUUUT ! Málaga marque.\n\n📊 Málaga 2 - 4 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564767-2-4.png",
+      "date": "2026-11-28T16:31:39.963678+00:00"
     }
   ],
   "feed_health": {
@@ -1548,7 +1584,7 @@
       0
     ],
     "565868": [
-      6,
+      7,
       1
     ],
     "565874": [
@@ -1560,11 +1596,11 @@
       0
     ],
     "565867": [
-      1,
+      2,
       1
     ],
     "560652": [
-      2,
+      3,
       0
     ],
     "560655": [
@@ -1572,7 +1608,7 @@
       2
     ],
     "564767": [
-      1,
+      2,
       4
     ],
     "559612": [
@@ -1582,8 +1618,8 @@
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 69,
-    "last": "2026-11-28T16:20:12.569763+00:00"
+    "n": 70,
+    "last": "2026-11-28T16:21:50.636816+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -2051,8 +2087,28 @@
       "h": "Mainz",
       "a": "Union Berlin",
       "n": 2
+    },
+    {
+      "h": "SC Paderborn",
+      "a": "Schalke",
+      "n": 8
+    },
+    {
+      "h": "Mainz",
+      "a": "Union Berlin",
+      "n": 3
+    },
+    {
+      "h": "Leeds United",
+      "a": "Coventry City",
+      "n": 3
+    },
+    {
+      "h": "Málaga",
+      "a": "Athletic",
+      "n": 6
     }
   ],
-  "apif_urgent": "2026-11-28T16:30:49.774180+00:00",
-  "_cap_logged": "2026-11-27"
+  "apif_urgent": "2026-11-28T16:41:29.483263+00:00",
+  "_cap_logged": "2026-11-28"
 }
