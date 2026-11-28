@@ -140,7 +140,9 @@
     "fdgoal-565866-4-0",
     "fdgoal-564767-1-3",
     "fdgoal-565866-5-0",
-    "fdgoal-564767-1-4"
+    "fdgoal-564767-1-4",
+    "fdgoal-565868-6-1",
+    "fdgoal-565867-1-1"
   ],
   "history": [
     {
@@ -1346,6 +1348,22 @@
       "message": "⚽ BUUUT ! Athletic marque.\n\n📊 Málaga 1 - 4 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
       "image": "cards/fdgoal-564767-1-4.png",
       "date": "2026-11-28T16:07:16.244742+00:00"
+    },
+    {
+      "id": "fdgoal-565868-6-1",
+      "type": "event",
+      "title": "SC Paderborn 6 - 1 Schalke",
+      "message": "⚽ BUUUT ! SC Paderborn marque.\n\n📊 SC Paderborn 6 - 1 Schalke\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565868-6-1.png",
+      "date": "2026-11-28T16:11:07.062643+00:00"
+    },
+    {
+      "id": "fdgoal-565867-1-1",
+      "type": "event",
+      "title": "Mainz 1 - 1 Union Berlin",
+      "message": "⚽ BUUUT ! Mainz marque.\n\n📊 Mainz 1 - 1 Union Berlin\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565867-1-1.png",
+      "date": "2026-11-28T16:20:55.229376+00:00"
     }
   ],
   "feed_health": {
@@ -1530,7 +1548,7 @@
       0
     ],
     "565868": [
-      5,
+      6,
       1
     ],
     "565874": [
@@ -1542,7 +1560,7 @@
       0
     ],
     "565867": [
-      0,
+      1,
       1
     ],
     "560652": [
@@ -1556,12 +1574,16 @@
     "564767": [
       1,
       4
+    ],
+    "559612": [
+      0,
+      0
     ]
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 60,
-    "last": "2026-11-28T16:05:47.550837+00:00"
+    "n": 69,
+    "last": "2026-11-28T16:20:12.569763+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -2019,8 +2041,18 @@
       "h": "Málaga",
       "a": "Athletic",
       "n": 5
+    },
+    {
+      "h": "SC Paderborn",
+      "a": "Schalke",
+      "n": 7
+    },
+    {
+      "h": "Mainz",
+      "a": "Union Berlin",
+      "n": 2
     }
   ],
-  "apif_urgent": "2026-11-28T16:17:10.834607+00:00",
+  "apif_urgent": "2026-11-28T16:30:49.774180+00:00",
   "_cap_logged": "2026-11-27"
 }
