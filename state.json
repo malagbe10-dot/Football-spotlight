@@ -121,7 +121,9 @@
     "news-https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php",
     "fdgoal-564760-0-1",
     "fdgoal-565866-1-0",
-    "fdgoal-565866-2-0"
+    "fdgoal-565866-2-0",
+    "fdgoal-565868-1-0",
+    "fdgoal-565867-0-1"
   ],
   "history": [
     {
@@ -1175,6 +1177,22 @@
       "message": "⚽ BUUUT ! 1. FC Köln marque.\n\n📊 1. FC Köln 2 - 0 Elversberg\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
       "image": "cards/fdgoal-565866-2-0.png",
       "date": "2026-11-28T14:55:38.019342+00:00"
+    },
+    {
+      "id": "fdgoal-565868-1-0",
+      "type": "event",
+      "title": "SC Paderborn 1 - 0 Schalke",
+      "message": "⚽ BUUUT ! SC Paderborn marque.\n\n📊 SC Paderborn 1 - 0 Schalke\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565868-1-0.png",
+      "date": "2026-11-28T14:56:52.801638+00:00"
+    },
+    {
+      "id": "fdgoal-565867-0-1",
+      "type": "event",
+      "title": "Mainz 0 - 1 Union Berlin",
+      "message": "⚽ BUUUT ! Union Berlin marque.\n\n📊 Mainz 0 - 1 Union Berlin\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565867-0-1.png",
+      "date": "2026-11-28T15:13:12.565728+00:00"
     }
   ],
   "feed_health": {
@@ -1359,7 +1377,7 @@
       0
     ],
     "565868": [
-      0,
+      1,
       0
     ],
     "565874": [
@@ -1372,13 +1390,21 @@
     ],
     "565867": [
       0,
+      1
+    ],
+    "560652": [
+      0,
+      0
+    ],
+    "560655": [
+      0,
       0
     ]
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 21,
-    "last": "2026-11-28T14:55:32.107295+00:00"
+    "n": 28,
+    "last": "2026-11-28T15:13:06.362869+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1736,8 +1762,18 @@
       "h": "1. FC Köln",
       "a": "Elversberg",
       "n": 2
+    },
+    {
+      "h": "SC Paderborn",
+      "a": "Schalke",
+      "n": 1
+    },
+    {
+      "h": "Mainz",
+      "a": "Union Berlin",
+      "n": 1
     }
   ],
-  "apif_urgent": "2026-11-28T15:05:32.107257+00:00",
+  "apif_urgent": "2026-11-28T15:23:06.362830+00:00",
   "_cap_logged": "2026-11-27"
 }
