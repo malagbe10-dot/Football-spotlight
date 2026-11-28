@@ -147,7 +147,9 @@
     "fdgoal-565867-2-1",
     "fdgoal-560652-3-0",
     "fdgoal-564767-2-4",
-    "fdgoal-559612-1-0"
+    "fdgoal-559612-1-0",
+    "fdgoal-560655-0-3",
+    "fdgoal-560655-0-4"
   ],
   "history": [
     {
@@ -1409,6 +1411,22 @@
       "message": "⚽ BUUUT ! Angers SCO marque.\n\n📊 Angers SCO 1 - 0 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
       "image": "cards/fdgoal-559612-1-0.png",
       "date": "2026-11-28T16:41:41.839880+00:00"
+    },
+    {
+      "id": "fdgoal-560655-0-3",
+      "type": "event",
+      "title": "Man United 0 - 3 Brentford",
+      "message": "⚽ BUUUT ! Brentford marque.\n\n📊 Man United 0 - 3 Brentford\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560655-0-3.png",
+      "date": "2026-11-28T16:46:42.554754+00:00"
+    },
+    {
+      "id": "fdgoal-560655-0-4",
+      "type": "event",
+      "title": "Man United 0 - 4 Brentford",
+      "message": "⚽ BUUUT ! Brentford marque.\n\n📊 Man United 0 - 4 Brentford\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560655-0-4.png",
+      "date": "2026-11-28T16:57:30.493732+00:00"
     }
   ],
   "feed_health": {
@@ -1614,7 +1632,7 @@
     ],
     "560655": [
       0,
-      2
+      4
     ],
     "564767": [
       2,
@@ -2121,8 +2139,18 @@
       "h": "Angers SCO",
       "a": "RC Lens",
       "n": 1
+    },
+    {
+      "h": "Man United",
+      "a": "Brentford",
+      "n": 3
+    },
+    {
+      "h": "Man United",
+      "a": "Brentford",
+      "n": 4
     }
   ],
-  "apif_urgent": "2026-11-28T16:51:36.442368+00:00",
+  "apif_urgent": "2026-11-28T17:07:24.743912+00:00",
   "_cap_logged": "2026-11-28"
 }
