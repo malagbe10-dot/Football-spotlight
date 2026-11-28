@@ -153,7 +153,13 @@
     "fdgoal-564767-3-4",
     "fdgoal-559612-1-1",
     "fdgoal-559612-2-1",
-    "fdgoal-564759-0-1"
+    "fdgoal-564759-0-1",
+    "fdgoal-559612-2-2",
+    "fdgoal-564759-0-2",
+    "fdgoal-558514-0-1",
+    "fdgoal-559612-2-3",
+    "fdgoal-558514-0-2",
+    "fdgoal-560653-0-1"
   ],
   "history": [
     {
@@ -1463,6 +1469,54 @@
       "message": "⚽ BUUUT ! Atleti marque.\n\n📊 Elche 0 - 1 Atleti\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
       "image": "cards/fdgoal-564759-0-1.png",
       "date": "2026-11-28T17:42:22.698022+00:00"
+    },
+    {
+      "id": "fdgoal-559612-2-2",
+      "type": "event",
+      "title": "Angers SCO 2 - 2 RC Lens",
+      "message": "⚽ BUUUT ! RC Lens marque.\n\n📊 Angers SCO 2 - 2 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559612-2-2.png",
+      "date": "2026-11-28T17:46:03.425463+00:00"
+    },
+    {
+      "id": "fdgoal-564759-0-2",
+      "type": "event",
+      "title": "Elche 0 - 2 Atleti",
+      "message": "⚽ BUUUT ! Atleti marque.\n\n📊 Elche 0 - 2 Atleti\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564759-0-2.png",
+      "date": "2026-11-28T17:46:08.453737+00:00"
+    },
+    {
+      "id": "fdgoal-558514-0-1",
+      "type": "event",
+      "title": "Torino 0 - 1 Lazio",
+      "message": "⚽ BUUUT ! Lazio marque.\n\n📊 Torino 0 - 1 Lazio\n🏆 Serie A\n\n#Football #SerieA #Direct",
+      "image": "cards/fdgoal-558514-0-1.png",
+      "date": "2026-11-28T17:49:56.192893+00:00"
+    },
+    {
+      "id": "fdgoal-559612-2-3",
+      "type": "event",
+      "title": "Angers SCO 2 - 3 RC Lens",
+      "message": "⚽ BUUUT ! RC Lens marque.\n\n📊 Angers SCO 2 - 3 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559612-2-3.png",
+      "date": "2026-11-28T17:52:32.497465+00:00"
+    },
+    {
+      "id": "fdgoal-558514-0-2",
+      "type": "event",
+      "title": "Torino 0 - 2 Lazio",
+      "message": "⚽ BUUUT ! Lazio marque.\n\n📊 Torino 0 - 2 Lazio\n🏆 Serie A\n\n#Football #SerieA #Direct",
+      "image": "cards/fdgoal-558514-0-2.png",
+      "date": "2026-11-28T17:52:37.248060+00:00"
+    },
+    {
+      "id": "fdgoal-560653-0-1",
+      "type": "event",
+      "title": "Ipswich Town 0 - 1 Aston Villa",
+      "message": "⚽ BUUUT ! Aston Villa marque.\n\n📊 Ipswich Town 0 - 1 Aston Villa\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560653-0-1.png",
+      "date": "2026-11-28T17:52:43.416436+00:00"
     }
   ],
   "feed_health": {
@@ -1676,15 +1730,15 @@
     ],
     "559612": [
       2,
-      1
+      3
     ],
     "558514": [
       0,
-      0
+      2
     ],
     "564759": [
       0,
-      1
+      2
     ],
     "565870": [
       0,
@@ -1692,7 +1746,7 @@
     ],
     "560653": [
       0,
-      0
+      1
     ]
   },
   "live_calls": {
@@ -2221,8 +2275,38 @@
       "h": "Elche",
       "a": "Atleti",
       "n": 1
+    },
+    {
+      "h": "Angers SCO",
+      "a": "RC Lens",
+      "n": 4
+    },
+    {
+      "h": "Elche",
+      "a": "Atleti",
+      "n": 2
+    },
+    {
+      "h": "Torino",
+      "a": "Lazio",
+      "n": 1
+    },
+    {
+      "h": "Angers SCO",
+      "a": "RC Lens",
+      "n": 5
+    },
+    {
+      "h": "Torino",
+      "a": "Lazio",
+      "n": 2
+    },
+    {
+      "h": "Ipswich Town",
+      "a": "Aston Villa",
+      "n": 1
     }
   ],
-  "apif_urgent": "2026-11-28T17:52:16.906302+00:00",
+  "apif_urgent": "2026-11-28T18:02:27.011337+00:00",
   "_cap_logged": "2026-11-28"
 }
