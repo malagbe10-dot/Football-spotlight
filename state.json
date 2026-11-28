@@ -149,7 +149,9 @@
     "fdgoal-564767-2-4",
     "fdgoal-559612-1-0",
     "fdgoal-560655-0-3",
-    "fdgoal-560655-0-4"
+    "fdgoal-560655-0-4",
+    "fdgoal-564767-3-4",
+    "fdgoal-559612-1-1"
   ],
   "history": [
     {
@@ -1427,6 +1429,22 @@
       "message": "⚽ BUUUT ! Brentford marque.\n\n📊 Man United 0 - 4 Brentford\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
       "image": "cards/fdgoal-560655-0-4.png",
       "date": "2026-11-28T16:57:30.493732+00:00"
+    },
+    {
+      "id": "fdgoal-564767-3-4",
+      "type": "event",
+      "title": "Málaga 3 - 4 Athletic",
+      "message": "⚽ BUUUT ! Málaga marque.\n\n📊 Málaga 3 - 4 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564767-3-4.png",
+      "date": "2026-11-28T17:04:39.650353+00:00"
+    },
+    {
+      "id": "fdgoal-559612-1-1",
+      "type": "event",
+      "title": "Angers SCO 1 - 1 RC Lens",
+      "message": "⚽ BUUUT ! RC Lens marque.\n\n📊 Angers SCO 1 - 1 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559612-1-1.png",
+      "date": "2026-11-28T17:04:45.237618+00:00"
     }
   ],
   "feed_health": {
@@ -1635,11 +1653,15 @@
       4
     ],
     "564767": [
-      2,
+      3,
       4
     ],
     "559612": [
       1,
+      1
+    ],
+    "558514": [
+      0,
       0
     ]
   },
@@ -2149,8 +2171,18 @@
       "h": "Man United",
       "a": "Brentford",
       "n": 4
+    },
+    {
+      "h": "Málaga",
+      "a": "Athletic",
+      "n": 7
+    },
+    {
+      "h": "Angers SCO",
+      "a": "RC Lens",
+      "n": 2
     }
   ],
-  "apif_urgent": "2026-11-28T17:07:24.743912+00:00",
+  "apif_urgent": "2026-11-28T17:14:32.932711+00:00",
   "_cap_logged": "2026-11-28"
 }
