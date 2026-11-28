@@ -114,7 +114,11 @@
     "news-https://www.leparisien.fr/sports/basket/vos-donnees-risquent-detre-publiees-la-ligue-nationale-de-basket-victime-dune-cyberattaque-annoncee-par-une-notification-sur-son-application-26-11-2026-X75LGZPXNZAWXBWYDKYARXFX5I.php",
     "news-https://www.leparisien.fr/societe/sante/la-renaissance-de-cyprien-sarrazin-le-skieur-qui-a-frole-la-mort-ca-sest-joue-a-quelques-heures-pres-26-11-2026-KA62BNCGKVGZTIUP6WDXO4LOOI.php",
     "news-https://www.leparisien.fr/sports/football/psg/direct-psg-apres-le-match-nul-face-a-las-rome-en-ligue-des-champions-posez-vos-questions-a-dominique-severac-26-11-2026-LWRZJF2CUNEBZPLB3LT5TB2TW4.php",
-    "news-https://www.leparisien.fr/sports/football/soupconne-detre-ivre-apres-un-carton-jaune-improbable-et-remplace-lors-dun-match-de-ligue-des-champions-asiatique-larbitre-se-defend-26-11-2026-YHICNAAHTVFTXLLXID5N4HJIAE.php"
+    "news-https://www.leparisien.fr/sports/football/soupconne-detre-ivre-apres-un-carton-jaune-improbable-et-remplace-lors-dun-match-de-ligue-des-champions-asiatique-larbitre-se-defend-26-11-2026-YHICNAAHTVFTXLLXID5N4HJIAE.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-roma-2-2-manque-de-percussion-peu-complementaire-pourquoi-lattaque-akliouche-torres-mayulu-na-pas-fonctionne-26-11-2026-AVGBNI2IS5BXBMOJMTPRCET7ME.php",
+    "news-https://www.leparisien.fr/sports/football/le-timing-est-particulierement-malvenu-manuel-neuer-critique-pour-avoir-quitte-sa-femme-qui-venait-daccoucher-et-etre-parti-au-bresil-avec-sa-kine-26-11-2026-VCMET25IKRBVXELRH55PDIKNEI.php",
+    "news-https://www.leparisien.fr/sports/il-sest-mis-a-ronfler-legende-de-nfl-aaron-rodgers-vire-par-sa-franchise-apres-avoir-critique-son-entraineur-en-interview-26-11-2026-NA4RA2TYEVH3LLUO4OS2I6WBAI.php",
+    "news-https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php"
   ],
   "history": [
     {
@@ -1108,15 +1112,49 @@
       "link": "https://www.leparisien.fr/sports/football/soupconne-detre-ivre-apres-un-carton-jaune-improbable-et-remplace-lors-dun-match-de-ligue-des-champions-asiatique-larbitre-se-defend-26-11-2026-YHICNAAHTVFTXLLXID5N4HJIAE.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_soupconne-detre-ivre-apres-un-car.png",
       "date": "2026-11-28T02:41:48.852436+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-roma-2-2-manque-de-percussion-peu-complementaire-pourquoi-lattaque-akliouche-torres-mayulu-na-pas-fonctionne-26-11-2026-AVGBNI2IS5BXBMOJMTPRCET7ME.php",
+      "type": "news",
+      "title": "PSG-Roma (2-2) : manque de percussion, peu complémentaire… Pourquoi l’attaque Akliouche-Torres-Mayulu n’a pas fonctionné ?",
+      "message": "🚨 PSG-Roma (2-2) : manque de percussion, peu complémentaire… Pourquoi l’attaque Akliouche-Torres-Mayulu n’a pas fonctionné ?\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-roma-2-2-manque-de-percussion-peu-complementaire-pourquoi-lattaque-akliouche-torres-mayulu-na-pas-fonctionne-26-11-2026-AVGBNI2IS5BXBMOJMTPRCET7ME.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-roma-2-2-.png",
+      "date": "2026-11-28T03:11:41.406409+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/le-timing-est-particulierement-malvenu-manuel-neuer-critique-pour-avoir-quitte-sa-femme-qui-venait-daccoucher-et-etre-parti-au-bresil-avec-sa-kine-26-11-2026-VCMET25IKRBVXELRH55PDIKNEI.php",
+      "type": "news",
+      "title": "« Le timing est particulièrement malvenu » : Manuel Neuer critiqué pour avoir quitté sa femme qui venait d’accoucher et être parti au Brésil avec sa kiné",
+      "message": "🚨 « Le timing est particulièrement malvenu » : Manuel Neuer critiqué pour avoir quitté sa femme qui venait d’accoucher et être parti au Brésil avec sa kiné\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/le-timing-est-particulierement-malvenu-manuel-neuer-critique-pour-avoir-quitte-sa-femme-qui-venait-daccoucher-et-etre-parti-au-bresil-avec-sa-kine-26-11-2026-VCMET25IKRBVXELRH55PDIKNEI.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_le-timing-est-particulierement-ma.png",
+      "date": "2026-11-28T03:11:44.775257+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/il-sest-mis-a-ronfler-legende-de-nfl-aaron-rodgers-vire-par-sa-franchise-apres-avoir-critique-son-entraineur-en-interview-26-11-2026-NA4RA2TYEVH3LLUO4OS2I6WBAI.php",
+      "type": "news",
+      "title": "« Il s’est mis à ronfler » : légende de NFL, Aaron Rodgers viré par sa franchise après avoir critiqué son entraîneur en interview",
+      "message": "🚨 « Il s’est mis à ronfler » : légende de NFL, Aaron Rodgers viré par sa franchise après avoir critiqué son entraîneur en interview\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/il-sest-mis-a-ronfler-legende-de-nfl-aaron-rodgers-vire-par-sa-franchise-apres-avoir-critique-son-entraineur-en-interview-26-11-2026-NA4RA2TYEVH3LLUO4OS2I6WBAI.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_il-sest-mis-a-ronfler-legende-de-nfl-aaron.png",
+      "date": "2026-11-28T03:11:48.229152+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php",
+      "type": "news",
+      "title": "« Une petite frayeur » : Pierre-Emerick Aubameyang victime d’un accident de voiture au volant d’une Ferrari en Espagne",
+      "message": "🚨 « Une petite frayeur » : Pierre-Emerick Aubameyang victime d’un accident de voiture au volant d’une Ferrari en Espagne\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_une-petite-frayeur-pierre-emerick.png",
+      "date": "2026-11-28T03:11:51.610801+00:00"
     }
   ],
   "feed_health": {
     "https://rmcsport.bfmtv.com/rss/football/": {},
     "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/": {},
     "https://feeds.bbci.co.uk/sport/football/rss.xml": {},
-    "https://www.footmercato.net/flux-rss": {
-      "fails": 1
-    },
+    "https://www.footmercato.net/flux-rss": {},
     "https://www.skysports.com/rss/12040": {},
     "https://www.theguardian.com/football/rss": {},
     "https://www.mundodeportivo.com/rss/futbol.xml": {},
@@ -1129,57 +1167,57 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.actufoot.com/feed": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 18,
-      "next": "2026-11-28T03:00:44.692104+00:00"
+      "fails": 19,
+      "next": "2026-11-28T09:11:31.545280+00:00"
     }
   },
   "lineup_calls": {
