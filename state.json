@@ -152,7 +152,8 @@
     "fdgoal-560655-0-4",
     "fdgoal-564767-3-4",
     "fdgoal-559612-1-1",
-    "fdgoal-559612-2-1"
+    "fdgoal-559612-2-1",
+    "fdgoal-564759-0-1"
   ],
   "history": [
     {
@@ -1454,6 +1455,14 @@
       "message": "⚽ BUUUT ! Angers SCO marque.\n\n📊 Angers SCO 2 - 1 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
       "image": "cards/fdgoal-559612-2-1.png",
       "date": "2026-11-28T17:30:37.698309+00:00"
+    },
+    {
+      "id": "fdgoal-564759-0-1",
+      "type": "event",
+      "title": "Elche 0 - 1 Atleti",
+      "message": "⚽ BUUUT ! Atleti marque.\n\n📊 Elche 0 - 1 Atleti\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564759-0-1.png",
+      "date": "2026-11-28T17:42:22.698022+00:00"
     }
   ],
   "feed_health": {
@@ -1670,6 +1679,18 @@
       1
     ],
     "558514": [
+      0,
+      0
+    ],
+    "564759": [
+      0,
+      1
+    ],
+    "565870": [
+      0,
+      0
+    ],
+    "560653": [
       0,
       0
     ]
@@ -2195,8 +2216,13 @@
       "h": "Angers SCO",
       "a": "RC Lens",
       "n": 3
+    },
+    {
+      "h": "Elche",
+      "a": "Atleti",
+      "n": 1
     }
   ],
-  "apif_urgent": "2026-11-28T17:40:32.004081+00:00",
+  "apif_urgent": "2026-11-28T17:52:16.906302+00:00",
   "_cap_logged": "2026-11-28"
 }
