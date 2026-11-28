@@ -90,7 +90,13 @@
     "result-564765",
     "result-561968",
     "news-https://www.leparisien.fr/sports/football/football-un-biopic-sur-zinedine-zidane-en-preparation-a-marseille-25-11-2026-ZURIKOK3WZEDHK7XUYUDIENOJ4.php",
-    "news-https://www.leparisien.fr/sports/basket/basket-la-nba-devoile-un-plan-de-10-milliards-deuros-pour-le-developpement-des-salles-modernes-en-europe-25-11-2026-FW3EXL2GN5FLXPIEVCNS5X2N34.php"
+    "news-https://www.leparisien.fr/sports/basket/basket-la-nba-devoile-un-plan-de-10-milliards-deuros-pour-le-developpement-des-salles-modernes-en-europe-25-11-2026-FW3EXL2GN5FLXPIEVCNS5X2N34.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/hier-le-mauvais-perdant-le-competiteur-a-parle-la-mise-au-point-de-florian-thauvin-au-lendemain-de-son-interview-polemique-25-11-2026-PPJ3FIS7XJAJFJXX3F54Z6DEYE.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-roma-legalisation-de-zabarnyi-en-video-sixieme-but-sur-corner-des-parisiens-en-ligue-des-champions-25-11-2026-ZMR73X2HRZEX7F2TNCGEGS5FWU.php",
+    "news-https://www.leparisien.fr/sports/biathlon/mon-cerveau-a-oublie-et-ca-ma-echappe-la-nouvelle-regle-du-biathlon-qui-bouscule-les-athletes-sur-le-pas-de-tir-25-11-2026-POCJFZKKPRC3VOEEDTTTNSJS54.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/lille-bayern-munich-la-video-du-but-gag-qui-permet-aux-dogues-de-croire-en-lexploit-25-11-2026-USJAKEVMM5GCFG3OYSXW5CMRBQ.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-2-2-paris-tombe-sur-un-os-25-11-2026-AEY7KKYBW5CVXOWDY2LAYVCBPE.php",
+    "news-https://www.leparisien.fr/sports/football/psg/psg-as-rome-2-2-les-notes-des-parisiens-avec-hakimi-tres-remuant-akliouche-et-torres-en-difficulte-25-11-2026-OCWO3Y257ZB2VDDNYRFTYWGB4Y.php"
   ],
   "history": [
     {
@@ -870,6 +876,60 @@
       "link": "https://www.leparisien.fr/sports/basket/basket-la-nba-devoile-un-plan-de-10-milliards-deuros-pour-le-developpement-des-salles-modernes-en-europe-25-11-2026-FW3EXL2GN5FLXPIEVCNS5X2N34.php",
       "image": "cards/news-https___www_leparisien_fr_sports_basket_basket-la-nba-devoile-un-plan-de-10.png",
       "date": "2026-11-28T00:41:20.316938+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/hier-le-mauvais-perdant-le-competiteur-a-parle-la-mise-au-point-de-florian-thauvin-au-lendemain-de-son-interview-polemique-25-11-2026-PPJ3FIS7XJAJFJXX3F54Z6DEYE.php",
+      "type": "news",
+      "title": "« Hier, le mauvais perdant, le compétiteur a parlé » : la mise au point de Florian Thauvin au lendemain de son interview polémique",
+      "message": "🚨 « Hier, le mauvais perdant, le compétiteur a parlé » : la mise au point de Florian Thauvin au lendemain de son interview polémique\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/hier-le-mauvais-perdant-le-competiteur-a-parle-la-mise-au-point-de-florian-thauvin-au-lendemain-de-son-interview-polemique-25-11-2026-PPJ3FIS7XJAJFJXX3F54Z6DEYE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_hier-le-mauva.png",
+      "date": "2026-11-28T01:11:09.930982+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-roma-legalisation-de-zabarnyi-en-video-sixieme-but-sur-corner-des-parisiens-en-ligue-des-champions-25-11-2026-ZMR73X2HRZEX7F2TNCGEGS5FWU.php",
+      "type": "news",
+      "title": "PSG - AS Roma : l’égalisation de Zabarnyi en vidéo, sixième but sur corner des Parisiens en Ligue des champions",
+      "message": "🚨 PSG - AS Roma : l’égalisation de Zabarnyi en vidéo, sixième but sur corner des Parisiens en Ligue des champions\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-roma-legalisation-de-zabarnyi-en-video-sixieme-but-sur-corner-des-parisiens-en-ligue-des-champions-25-11-2026-ZMR73X2HRZEX7F2TNCGEGS5FWU.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-roma-l.png",
+      "date": "2026-11-28T01:11:13.003409+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/biathlon/mon-cerveau-a-oublie-et-ca-ma-echappe-la-nouvelle-regle-du-biathlon-qui-bouscule-les-athletes-sur-le-pas-de-tir-25-11-2026-POCJFZKKPRC3VOEEDTTTNSJS54.php",
+      "type": "news",
+      "title": "« Mon cerveau a oublié et ça m’a échappé » : la nouvelle règle du biathlon qui bouscule les athlètes sur le pas de tir",
+      "message": "🚨 « Mon cerveau a oublié et ça m’a échappé » : la nouvelle règle du biathlon qui bouscule les athlètes sur le pas de tir\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/biathlon/mon-cerveau-a-oublie-et-ca-ma-echappe-la-nouvelle-regle-du-biathlon-qui-bouscule-les-athletes-sur-le-pas-de-tir-25-11-2026-POCJFZKKPRC3VOEEDTTTNSJS54.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_biathlon_mon-cerveau-a-oublie-et-ca-ma-ech.png",
+      "date": "2026-11-28T01:11:16.364211+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/lille-bayern-munich-la-video-du-but-gag-qui-permet-aux-dogues-de-croire-en-lexploit-25-11-2026-USJAKEVMM5GCFG3OYSXW5CMRBQ.php",
+      "type": "news",
+      "title": "Lille - Bayern Munich : la vidéo du but gag qui permet aux Dogues de signer l’exploit",
+      "message": "🚨 Lille - Bayern Munich : la vidéo du but gag qui permet aux Dogues de signer l’exploit\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/lille-bayern-munich-la-video-du-but-gag-qui-permet-aux-dogues-de-croire-en-lexploit-25-11-2026-USJAKEVMM5GCFG3OYSXW5CMRBQ.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_lille-bayern-.png",
+      "date": "2026-11-28T01:11:20.008173+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-2-2-paris-tombe-sur-un-os-25-11-2026-AEY7KKYBW5CVXOWDY2LAYVCBPE.php",
+      "type": "news",
+      "title": "PSG-AS Rome (2-2) : Paris tombe sur un os",
+      "message": "🚨 PSG-AS Rome (2-2) : Paris tombe sur un os\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-2-2-paris-tombe-sur-un-os-25-11-2026-AEY7KKYBW5CVXOWDY2LAYVCBPE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-2.png",
+      "date": "2026-11-28T01:11:23.555684+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/psg/psg-as-rome-2-2-les-notes-des-parisiens-avec-hakimi-tres-remuant-akliouche-et-torres-en-difficulte-25-11-2026-OCWO3Y257ZB2VDDNYRFTYWGB4Y.php",
+      "type": "news",
+      "title": "PSG-AS Rome (2-2) : les notes des Parisiens avec Hakimi très remuant, Akliouche et Torres en difficulté",
+      "message": "🚨 PSG-AS Rome (2-2) : les notes des Parisiens avec Hakimi très remuant, Akliouche et Torres en difficulté\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/psg/psg-as-rome-2-2-les-notes-des-parisiens-avec-hakimi-tres-remuant-akliouche-et-torres-en-difficulte-25-11-2026-OCWO3Y257ZB2VDDNYRFTYWGB4Y.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_psg_psg-as-rome-2-2-les-notes-des.png",
+      "date": "2026-11-28T01:11:26.736571+00:00"
     }
   ],
   "feed_health": {
@@ -1048,7 +1108,7 @@
   },
   "live_calls": {
     "date": "2026-11-27",
-    "n": 70,
+    "n": 72,
     "last": "2026-11-27T21:30:37.674140+00:00"
   },
   "live_fixtures": [
