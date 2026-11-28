@@ -134,7 +134,13 @@
     "fdgoal-560652-1-0",
     "fdgoal-564767-0-1",
     "fdgoal-565868-5-0",
-    "fdgoal-560652-2-0"
+    "fdgoal-560652-2-0",
+    "fdgoal-565868-5-1",
+    "fdgoal-564767-0-2",
+    "fdgoal-565866-4-0",
+    "fdgoal-564767-1-3",
+    "fdgoal-565866-5-0",
+    "fdgoal-564767-1-4"
   ],
   "history": [
     {
@@ -1292,6 +1298,54 @@
       "message": "⚽ BUUUT ! Leeds United marque.\n\n📊 Leeds United 2 - 0 Coventry City\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
       "image": "cards/fdgoal-560652-2-0.png",
       "date": "2026-11-28T15:53:55.598989+00:00"
+    },
+    {
+      "id": "fdgoal-565868-5-1",
+      "type": "event",
+      "title": "SC Paderborn 5 - 1 Schalke",
+      "message": "⚽ BUUUT ! Schalke marque.\n\n📊 SC Paderborn 5 - 1 Schalke\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565868-5-1.png",
+      "date": "2026-11-28T15:56:34.065425+00:00"
+    },
+    {
+      "id": "fdgoal-564767-0-2",
+      "type": "event",
+      "title": "Málaga 0 - 2 Athletic",
+      "message": "⚽ BUUUT ! Athletic marque.\n\n📊 Málaga 0 - 2 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564767-0-2.png",
+      "date": "2026-11-28T15:56:39.248720+00:00"
+    },
+    {
+      "id": "fdgoal-565866-4-0",
+      "type": "event",
+      "title": "1. FC Köln 4 - 0 Elversberg",
+      "message": "⚽ BUUUT ! 1. FC Köln marque.\n\n📊 1. FC Köln 4 - 0 Elversberg\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565866-4-0.png",
+      "date": "2026-11-28T15:57:50.890348+00:00"
+    },
+    {
+      "id": "fdgoal-564767-1-3",
+      "type": "event",
+      "title": "Málaga 1 - 3 Athletic",
+      "message": "⚽ BUUUT ! Málaga marque.\n\n📊 Málaga 1 - 3 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564767-1-3.png",
+      "date": "2026-11-28T15:59:15.070509+00:00"
+    },
+    {
+      "id": "fdgoal-565866-5-0",
+      "type": "event",
+      "title": "1. FC Köln 5 - 0 Elversberg",
+      "message": "⚽ BUUUT ! 1. FC Köln marque.\n\n📊 1. FC Köln 5 - 0 Elversberg\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565866-5-0.png",
+      "date": "2026-11-28T16:02:04.429917+00:00"
+    },
+    {
+      "id": "fdgoal-564767-1-4",
+      "type": "event",
+      "title": "Málaga 1 - 4 Athletic",
+      "message": "⚽ BUUUT ! Athletic marque.\n\n📊 Málaga 1 - 4 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564767-1-4.png",
+      "date": "2026-11-28T16:07:16.244742+00:00"
     }
   ],
   "feed_health": {
@@ -1477,14 +1531,14 @@
     ],
     "565868": [
       5,
-      0
+      1
     ],
     "565874": [
       0,
       0
     ],
     "565866": [
-      3,
+      5,
       0
     ],
     "565867": [
@@ -1500,14 +1554,14 @@
       2
     ],
     "564767": [
-      0,
-      1
+      1,
+      4
     ]
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 52,
-    "last": "2026-11-28T15:53:06.649782+00:00"
+    "n": 60,
+    "last": "2026-11-28T16:05:47.550837+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1935,8 +1989,38 @@
       "h": "Leeds United",
       "a": "Coventry City",
       "n": 2
+    },
+    {
+      "h": "SC Paderborn",
+      "a": "Schalke",
+      "n": 6
+    },
+    {
+      "h": "Málaga",
+      "a": "Athletic",
+      "n": 2
+    },
+    {
+      "h": "1. FC Köln",
+      "a": "Elversberg",
+      "n": 4
+    },
+    {
+      "h": "Málaga",
+      "a": "Athletic",
+      "n": 4
+    },
+    {
+      "h": "1. FC Köln",
+      "a": "Elversberg",
+      "n": 5
+    },
+    {
+      "h": "Málaga",
+      "a": "Athletic",
+      "n": 5
     }
   ],
-  "apif_urgent": "2026-11-28T16:03:44.312679+00:00",
+  "apif_urgent": "2026-11-28T16:17:10.834607+00:00",
   "_cap_logged": "2026-11-27"
 }
