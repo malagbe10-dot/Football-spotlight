@@ -129,7 +129,12 @@
     "fdgoal-558513-1-0",
     "fdgoal-560655-0-1",
     "fdgoal-558513-2-0",
-    "fdgoal-560655-0-2"
+    "fdgoal-560655-0-2",
+    "fdgoal-558513-3-0",
+    "fdgoal-560652-1-0",
+    "fdgoal-564767-0-1",
+    "fdgoal-565868-5-0",
+    "fdgoal-560652-2-0"
   ],
   "history": [
     {
@@ -1247,6 +1252,46 @@
       "message": "⚽ BUUUT ! Brentford marque.\n\n📊 Man United 0 - 2 Brentford\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
       "image": "cards/fdgoal-560655-0-2.png",
       "date": "2026-11-28T15:38:40.911512+00:00"
+    },
+    {
+      "id": "fdgoal-558513-3-0",
+      "type": "event",
+      "title": "Frosinone 3 - 0 Parma",
+      "message": "⚽ BUUUT ! Frosinone marque.\n\n📊 Frosinone 3 - 0 Parma\n🏆 Serie A\n\n#Football #SerieA #Direct",
+      "image": "cards/fdgoal-558513-3-0.png",
+      "date": "2026-11-28T15:45:13.119142+00:00"
+    },
+    {
+      "id": "fdgoal-560652-1-0",
+      "type": "event",
+      "title": "Leeds United 1 - 0 Coventry City",
+      "message": "⚽ BUUUT ! Leeds United marque.\n\n📊 Leeds United 1 - 0 Coventry City\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560652-1-0.png",
+      "date": "2026-11-28T15:47:37.184436+00:00"
+    },
+    {
+      "id": "fdgoal-564767-0-1",
+      "type": "event",
+      "title": "Málaga 0 - 1 Athletic",
+      "message": "⚽ BUUUT ! Athletic marque.\n\n📊 Málaga 0 - 1 Athletic\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564767-0-1.png",
+      "date": "2026-11-28T15:48:49.116322+00:00"
+    },
+    {
+      "id": "fdgoal-565868-5-0",
+      "type": "event",
+      "title": "SC Paderborn 5 - 0 Schalke",
+      "message": "⚽ BUUUT ! SC Paderborn marque.\n\n📊 SC Paderborn 5 - 0 Schalke\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565868-5-0.png",
+      "date": "2026-11-28T15:53:50.035769+00:00"
+    },
+    {
+      "id": "fdgoal-560652-2-0",
+      "type": "event",
+      "title": "Leeds United 2 - 0 Coventry City",
+      "message": "⚽ BUUUT ! Leeds United marque.\n\n📊 Leeds United 2 - 0 Coventry City\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560652-2-0.png",
+      "date": "2026-11-28T15:53:55.598989+00:00"
     }
   ],
   "feed_health": {
@@ -1427,11 +1472,11 @@
       1
     ],
     "558513": [
-      2,
+      3,
       0
     ],
     "565868": [
-      3,
+      5,
       0
     ],
     "565874": [
@@ -1447,7 +1492,7 @@
       1
     ],
     "560652": [
-      0,
+      2,
       0
     ],
     "560655": [
@@ -1456,13 +1501,13 @@
     ],
     "564767": [
       0,
-      0
+      1
     ]
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 44,
-    "last": "2026-11-28T15:40:12.374711+00:00"
+    "n": 52,
+    "last": "2026-11-28T15:53:06.649782+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1865,8 +1910,33 @@
       "h": "Man United",
       "a": "Brentford",
       "n": 2
+    },
+    {
+      "h": "Frosinone",
+      "a": "Parma",
+      "n": 3
+    },
+    {
+      "h": "Leeds United",
+      "a": "Coventry City",
+      "n": 1
+    },
+    {
+      "h": "Málaga",
+      "a": "Athletic",
+      "n": 1
+    },
+    {
+      "h": "SC Paderborn",
+      "a": "Schalke",
+      "n": 5
+    },
+    {
+      "h": "Leeds United",
+      "a": "Coventry City",
+      "n": 2
     }
   ],
-  "apif_urgent": "2026-11-28T15:48:34.804316+00:00",
+  "apif_urgent": "2026-11-28T16:03:44.312679+00:00",
   "_cap_logged": "2026-11-27"
 }
