@@ -108,7 +108,13 @@
     "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-des-supporters-romains-accuses-davoir-lance-des-cris-de-singe-et-des-insultes-racistes-26-11-2026-2UVI4KCWRRHTDIGIQ3QKMU6JSM.php",
     "news-https://www.leparisien.fr/sports/tennis/tennis-apres-son-operation-du-genou-jannik-sinner-officiellement-forfait-pour-lopen-daustralie-26-11-2026-E4LVQS74HRDKBHZBWZWKSYR2LA.php",
     "news-https://www.leparisien.fr/sports/biathlon/emilien-va-nous-manquer-labsence-de-jacquelin-ses-ambitions-pour-la-saison-de-biathlon-eric-perrot-se-confie-26-11-2026-GQG3I6KNJZDEPF6KIJUMQQA5ZY.php",
-    "news-https://www.leparisien.fr/sports/basket/nba-avec-son-premier-triple-double-a-philadelphie-lebron-james-soffre-un-nouveau-record-a-bientot-42-ans-26-11-2026-LINFJDOINBEVLEYLO53C4RFN6Q.php"
+    "news-https://www.leparisien.fr/sports/basket/nba-avec-son-premier-triple-double-a-philadelphie-lebron-james-soffre-un-nouveau-record-a-bientot-42-ans-26-11-2026-LINFJDOINBEVLEYLO53C4RFN6Q.php",
+    "news-https://www.leparisien.fr/sports/basket/44-points-poster-dunk-de-sidy-cissoko-victor-wembanyama-nempeche-pas-la-premiere-defaite-des-spurs-a-lexterieur-26-11-2026-YKK63XIUPJALRHXVDYC7XBMFGM.php",
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/inacceptable-absolument-incomprehensible-joshua-kimmich-denonce-la-communication-du-bayern-munich-sur-jamal-musiala-26-11-2026-NLKCXYB4OBF67AWNAEB6S2CX4A.php",
+    "news-https://www.leparisien.fr/sports/basket/vos-donnees-risquent-detre-publiees-la-ligue-nationale-de-basket-victime-dune-cyberattaque-annoncee-par-une-notification-sur-son-application-26-11-2026-X75LGZPXNZAWXBWYDKYARXFX5I.php",
+    "news-https://www.leparisien.fr/societe/sante/la-renaissance-de-cyprien-sarrazin-le-skieur-qui-a-frole-la-mort-ca-sest-joue-a-quelques-heures-pres-26-11-2026-KA62BNCGKVGZTIUP6WDXO4LOOI.php",
+    "news-https://www.leparisien.fr/sports/football/psg/direct-psg-apres-le-match-nul-face-a-las-rome-en-ligue-des-champions-posez-vos-questions-a-dominique-severac-26-11-2026-LWRZJF2CUNEBZPLB3LT5TB2TW4.php",
+    "news-https://www.leparisien.fr/sports/football/soupconne-detre-ivre-apres-un-carton-jaune-improbable-et-remplace-lors-dun-match-de-ligue-des-champions-asiatique-larbitre-se-defend-26-11-2026-YHICNAAHTVFTXLLXID5N4HJIAE.php"
   ],
   "history": [
     {
@@ -1048,13 +1054,69 @@
       "link": "https://www.leparisien.fr/sports/basket/nba-avec-son-premier-triple-double-a-philadelphie-lebron-james-soffre-un-nouveau-record-a-bientot-42-ans-26-11-2026-LINFJDOINBEVLEYLO53C4RFN6Q.php",
       "image": "cards/news-https___www_leparisien_fr_sports_basket_nba-avec-son-premier-triple-double-.png",
       "date": "2026-11-28T02:11:38.829151+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/basket/44-points-poster-dunk-de-sidy-cissoko-victor-wembanyama-nempeche-pas-la-premiere-defaite-des-spurs-a-lexterieur-26-11-2026-YKK63XIUPJALRHXVDYC7XBMFGM.php",
+      "type": "news",
+      "title": "À Portland, Sidy Cissoko inflige un poster dunk à son ex-coéquipier Victor Wembanyama lors de la défaite des Spurs",
+      "message": "🚨 À Portland, Sidy Cissoko inflige un poster dunk à son ex-coéquipier Victor Wembanyama lors de la défaite des Spurs\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/basket/44-points-poster-dunk-de-sidy-cissoko-victor-wembanyama-nempeche-pas-la-premiere-defaite-des-spurs-a-lexterieur-26-11-2026-YKK63XIUPJALRHXVDYC7XBMFGM.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_basket_44-points-poster-dunk-de-sidy-cisso.png",
+      "date": "2026-11-28T02:41:32.309321+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/ligue-des-champions/inacceptable-absolument-incomprehensible-joshua-kimmich-denonce-la-communication-du-bayern-munich-sur-jamal-musiala-26-11-2026-NLKCXYB4OBF67AWNAEB6S2CX4A.php",
+      "type": "news",
+      "title": "« Inacceptable », « absolument incompréhensible » : Joshua Kimmich dénonce la communication du Bayern Munich sur Jamal Musiala",
+      "message": "🚨 « Inacceptable », « absolument incompréhensible » : Joshua Kimmich dénonce la communication du Bayern Munich sur Jamal Musiala\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/inacceptable-absolument-incomprehensible-joshua-kimmich-denonce-la-communication-du-bayern-munich-sur-jamal-musiala-26-11-2026-NLKCXYB4OBF67AWNAEB6S2CX4A.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_inacceptable-.png",
+      "date": "2026-11-28T02:41:35.701816+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/basket/vos-donnees-risquent-detre-publiees-la-ligue-nationale-de-basket-victime-dune-cyberattaque-annoncee-par-une-notification-sur-son-application-26-11-2026-X75LGZPXNZAWXBWYDKYARXFX5I.php",
+      "type": "news",
+      "title": "« Vos données risquent d’être publiées » : la Ligue nationale de basket victime d’une cyberattaque... annoncée par une notification sur son application",
+      "message": "🚨 « Vos données risquent d’être publiées » : la Ligue nationale de basket victime d’une cyberattaque... annoncée par une notification sur son application\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/basket/vos-donnees-risquent-detre-publiees-la-ligue-nationale-de-basket-victime-dune-cyberattaque-annoncee-par-une-notification-sur-son-application-26-11-2026-X75LGZPXNZAWXBWYDKYARXFX5I.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_basket_vos-donnees-risquent-detre-publiees.png",
+      "date": "2026-11-28T02:41:39.104847+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/societe/sante/la-renaissance-de-cyprien-sarrazin-le-skieur-qui-a-frole-la-mort-ca-sest-joue-a-quelques-heures-pres-26-11-2026-KA62BNCGKVGZTIUP6WDXO4LOOI.php",
+      "type": "news",
+      "title": "La renaissance de Cyprien Sarrazin, le skieur qui a frôlé la mort : « Ça s’est joué à quelques heures près »",
+      "message": "🚨 La renaissance de Cyprien Sarrazin, le skieur qui a frôlé la mort : « Ça s’est joué à quelques heures près »\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/societe/sante/la-renaissance-de-cyprien-sarrazin-le-skieur-qui-a-frole-la-mort-ca-sest-joue-a-quelques-heures-pres-26-11-2026-KA62BNCGKVGZTIUP6WDXO4LOOI.php",
+      "image": "cards/news-https___www_leparisien_fr_societe_sante_la-renaissance-de-cyprien-sarrazin-.png",
+      "date": "2026-11-28T02:41:42.208771+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/psg/direct-psg-apres-le-match-nul-face-a-las-rome-en-ligue-des-champions-posez-vos-questions-a-dominique-severac-26-11-2026-LWRZJF2CUNEBZPLB3LT5TB2TW4.php",
+      "type": "news",
+      "title": "DIRECT. PSG : « Lamine Yamal ne viendra pas à Paris cet hiver »",
+      "message": "🚨 DIRECT. PSG : « Lamine Yamal ne viendra pas à Paris cet hiver »\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/psg/direct-psg-apres-le-match-nul-face-a-las-rome-en-ligue-des-champions-posez-vos-questions-a-dominique-severac-26-11-2026-LWRZJF2CUNEBZPLB3LT5TB2TW4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_psg_direct-psg-apres-le-match-nul.png",
+      "date": "2026-11-28T02:41:45.501208+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/soupconne-detre-ivre-apres-un-carton-jaune-improbable-et-remplace-lors-dun-match-de-ligue-des-champions-asiatique-larbitre-se-defend-26-11-2026-YHICNAAHTVFTXLLXID5N4HJIAE.php",
+      "type": "news",
+      "title": "Soupçonné d’être ivre après un carton jaune improbable et remplacé lors d’un match de Ligue des champions asiatique, l’arbitre se défend",
+      "message": "🚨 Soupçonné d’être ivre après un carton jaune improbable et remplacé lors d’un match de Ligue des champions asiatique, l’arbitre se défend\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/soupconne-detre-ivre-apres-un-carton-jaune-improbable-et-remplace-lors-dun-match-de-ligue-des-champions-asiatique-larbitre-se-defend-26-11-2026-YHICNAAHTVFTXLLXID5N4HJIAE.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_soupconne-detre-ivre-apres-un-car.png",
+      "date": "2026-11-28T02:41:48.852436+00:00"
     }
   ],
   "feed_health": {
     "https://rmcsport.bfmtv.com/rss/football/": {},
     "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/": {},
     "https://feeds.bbci.co.uk/sport/football/rss.xml": {},
-    "https://www.footmercato.net/flux-rss": {},
+    "https://www.footmercato.net/flux-rss": {
+      "fails": 1
+    },
     "https://www.skysports.com/rss/12040": {},
     "https://www.theguardian.com/football/rss": {},
     "https://www.mundodeportivo.com/rss/futbol.xml": {},
