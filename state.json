@@ -159,7 +159,12 @@
     "fdgoal-558514-0-1",
     "fdgoal-559612-2-3",
     "fdgoal-558514-0-2",
-    "fdgoal-560653-0-1"
+    "fdgoal-560653-0-1",
+    "fdgoal-560653-1-1",
+    "fdgoal-559612-2-4",
+    "fdgoal-559612-2-5",
+    "fdgoal-564759-1-2",
+    "fdgoal-560653-1-2"
   ],
   "history": [
     {
@@ -1517,6 +1522,46 @@
       "message": "⚽ BUUUT ! Aston Villa marque.\n\n📊 Ipswich Town 0 - 1 Aston Villa\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
       "image": "cards/fdgoal-560653-0-1.png",
       "date": "2026-11-28T17:52:43.416436+00:00"
+    },
+    {
+      "id": "fdgoal-560653-1-1",
+      "type": "event",
+      "title": "Ipswich Town 1 - 1 Aston Villa",
+      "message": "⚽ BUUUT ! Ipswich Town marque.\n\n📊 Ipswich Town 1 - 1 Aston Villa\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560653-1-1.png",
+      "date": "2026-11-28T17:56:21.799613+00:00"
+    },
+    {
+      "id": "fdgoal-559612-2-4",
+      "type": "event",
+      "title": "Angers SCO 2 - 4 RC Lens",
+      "message": "⚽ BUUUT ! RC Lens marque.\n\n📊 Angers SCO 2 - 4 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559612-2-4.png",
+      "date": "2026-11-28T17:58:45.858722+00:00"
+    },
+    {
+      "id": "fdgoal-559612-2-5",
+      "type": "event",
+      "title": "Angers SCO 2 - 5 RC Lens",
+      "message": "⚽ BUUUT ! RC Lens marque.\n\n📊 Angers SCO 2 - 5 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559612-2-5.png",
+      "date": "2026-11-28T18:02:33.130416+00:00"
+    },
+    {
+      "id": "fdgoal-564759-1-2",
+      "type": "event",
+      "title": "Elche 1 - 2 Atleti",
+      "message": "⚽ BUUUT ! Elche marque.\n\n📊 Elche 1 - 2 Atleti\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564759-1-2.png",
+      "date": "2026-11-28T18:03:46.054508+00:00"
+    },
+    {
+      "id": "fdgoal-560653-1-2",
+      "type": "event",
+      "title": "Ipswich Town 1 - 2 Aston Villa",
+      "message": "⚽ BUUUT ! Aston Villa marque.\n\n📊 Ipswich Town 1 - 2 Aston Villa\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560653-1-2.png",
+      "date": "2026-11-28T18:03:50.967762+00:00"
     }
   ],
   "feed_health": {
@@ -1730,14 +1775,14 @@
     ],
     "559612": [
       2,
-      3
+      5
     ],
     "558514": [
       0,
       2
     ],
     "564759": [
-      0,
+      1,
       2
     ],
     "565870": [
@@ -1745,8 +1790,8 @@
       0
     ],
     "560653": [
-      0,
-      1
+      1,
+      2
     ]
   },
   "live_calls": {
@@ -2305,8 +2350,33 @@
       "h": "Ipswich Town",
       "a": "Aston Villa",
       "n": 1
+    },
+    {
+      "h": "Ipswich Town",
+      "a": "Aston Villa",
+      "n": 2
+    },
+    {
+      "h": "Angers SCO",
+      "a": "RC Lens",
+      "n": 6
+    },
+    {
+      "h": "Angers SCO",
+      "a": "RC Lens",
+      "n": 7
+    },
+    {
+      "h": "Elche",
+      "a": "Atleti",
+      "n": 3
+    },
+    {
+      "h": "Ipswich Town",
+      "a": "Aston Villa",
+      "n": 3
     }
   ],
-  "apif_urgent": "2026-11-28T18:02:27.011337+00:00",
+  "apif_urgent": "2026-11-28T18:13:40.516772+00:00",
   "_cap_logged": "2026-11-28"
 }
