@@ -118,7 +118,8 @@
     "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-roma-2-2-manque-de-percussion-peu-complementaire-pourquoi-lattaque-akliouche-torres-mayulu-na-pas-fonctionne-26-11-2026-AVGBNI2IS5BXBMOJMTPRCET7ME.php",
     "news-https://www.leparisien.fr/sports/football/le-timing-est-particulierement-malvenu-manuel-neuer-critique-pour-avoir-quitte-sa-femme-qui-venait-daccoucher-et-etre-parti-au-bresil-avec-sa-kine-26-11-2026-VCMET25IKRBVXELRH55PDIKNEI.php",
     "news-https://www.leparisien.fr/sports/il-sest-mis-a-ronfler-legende-de-nfl-aaron-rodgers-vire-par-sa-franchise-apres-avoir-critique-son-entraineur-en-interview-26-11-2026-NA4RA2TYEVH3LLUO4OS2I6WBAI.php",
-    "news-https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php"
+    "news-https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php",
+    "fdgoal-564760-0-1"
   ],
   "history": [
     {
@@ -1148,6 +1149,14 @@
       "link": "https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_une-petite-frayeur-pierre-emerick.png",
       "date": "2026-11-28T03:11:51.610801+00:00"
+    },
+    {
+      "id": "fdgoal-564760-0-1",
+      "type": "event",
+      "title": "Real Betis 0 - 1 Rayo Vallecano",
+      "message": "⚽ BUUUT ! Rayo Vallecano marque.\n\n📊 Real Betis 0 - 1 Rayo Vallecano\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
+      "image": "cards/fdgoal-564760-0-1.png",
+      "date": "2026-11-28T14:41:58.487961+00:00"
     }
   ],
   "feed_health": {
@@ -1325,17 +1334,33 @@
     ],
     "564760": [
       0,
-      0
+      1
     ],
     "558513": [
+      0,
+      0
+    ],
+    "565868": [
+      0,
+      0
+    ],
+    "565874": [
+      0,
+      0
+    ],
+    "565866": [
+      0,
+      0
+    ],
+    "565867": [
       0,
       0
     ]
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 11,
-    "last": "2026-11-28T14:26:23.224693+00:00"
+    "n": 12,
+    "last": "2026-11-28T14:40:59.457127+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1678,8 +1703,13 @@
       "h": "Levante",
       "a": "Santander",
       "n": 4
+    },
+    {
+      "h": "Real Betis",
+      "a": "Rayo Vallecano",
+      "n": 1
     }
   ],
-  "apif_urgent": "2026-11-27T22:10:30.583413+00:00",
+  "apif_urgent": "2026-11-28T14:51:49.689544+00:00",
   "_cap_logged": "2026-11-27"
 }
