@@ -151,7 +151,8 @@
     "fdgoal-560655-0-3",
     "fdgoal-560655-0-4",
     "fdgoal-564767-3-4",
-    "fdgoal-559612-1-1"
+    "fdgoal-559612-1-1",
+    "fdgoal-559612-2-1"
   ],
   "history": [
     {
@@ -1445,6 +1446,14 @@
       "message": "⚽ BUUUT ! RC Lens marque.\n\n📊 Angers SCO 1 - 1 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
       "image": "cards/fdgoal-559612-1-1.png",
       "date": "2026-11-28T17:04:45.237618+00:00"
+    },
+    {
+      "id": "fdgoal-559612-2-1",
+      "type": "event",
+      "title": "Angers SCO 2 - 1 RC Lens",
+      "message": "⚽ BUUUT ! Angers SCO marque.\n\n📊 Angers SCO 2 - 1 RC Lens\n🏆 Ligue 1\n\n#Football #Ligue1 #Direct",
+      "image": "cards/fdgoal-559612-2-1.png",
+      "date": "2026-11-28T17:30:37.698309+00:00"
     }
   ],
   "feed_health": {
@@ -1657,7 +1666,7 @@
       4
     ],
     "559612": [
-      1,
+      2,
       1
     ],
     "558514": [
@@ -2181,8 +2190,13 @@
       "h": "Angers SCO",
       "a": "RC Lens",
       "n": 2
+    },
+    {
+      "h": "Angers SCO",
+      "a": "RC Lens",
+      "n": 3
     }
   ],
-  "apif_urgent": "2026-11-28T17:14:32.932711+00:00",
+  "apif_urgent": "2026-11-28T17:40:32.004081+00:00",
   "_cap_logged": "2026-11-28"
 }
