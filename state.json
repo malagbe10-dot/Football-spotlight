@@ -84,7 +84,13 @@
     "result-565869",
     "result-559616",
     "news-https://www.leparisien.fr/sports/football/ligue-des-champions/direct-lille-bayern-munich-les-dogues-en-quete-dun-exploit-en-ligue-des-champions-25-11-2026-HHBYSVSGPBBYROXUTHONMTIBHM.php",
-    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-la-composition-officielle-des-parisiens-avec-akliouche-mayulu-et-torres-alignes-en-attaque-25-11-2026-L7WCSYKX2JHMDMHWLENXCO2UAU.php"
+    "news-https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-la-composition-officielle-des-parisiens-avec-akliouche-mayulu-et-torres-alignes-en-attaque-25-11-2026-L7WCSYKX2JHMDMHWLENXCO2UAU.php",
+    "result-558515",
+    "result-560658",
+    "result-564765",
+    "result-561968",
+    "news-https://www.leparisien.fr/sports/football/football-un-biopic-sur-zinedine-zidane-en-preparation-a-marseille-25-11-2026-ZURIKOK3WZEDHK7XUYUDIENOJ4.php",
+    "news-https://www.leparisien.fr/sports/basket/basket-la-nba-devoile-un-plan-de-10-milliards-deuros-pour-le-developpement-des-salles-modernes-en-europe-25-11-2026-FW3EXL2GN5FLXPIEVCNS5X2N34.php"
   ],
   "history": [
     {
@@ -814,6 +820,56 @@
       "link": "https://www.leparisien.fr/sports/football/ligue-des-champions/psg-as-rome-la-composition-officielle-des-parisiens-avec-akliouche-mayulu-et-torres-alignes-en-attaque-25-11-2026-L7WCSYKX2JHMDMHWLENXCO2UAU.php",
       "image": "cards/news-https___www_leparisien_fr_sports_football_ligue-des-champions_psg-as-rome-l.png",
       "date": "2026-11-28T00:11:33.569838+00:00"
+    },
+    {
+      "id": "result-558515",
+      "type": "score",
+      "title": "Venezia FC 0 - 0 Bologna",
+      "message": "⏱️ TERMINÉ\n\n⚽ VENEZIA FC 0 - 0 BOLOGNA\n\n🤝 Match nul\n🏆 Serie A · Journée 13\n\n#Football #SerieA",
+      "image": "cards/result-558515.png",
+      "date": "2026-11-28T00:41:00.843783+00:00"
+    },
+    {
+      "id": "result-560658",
+      "type": "score",
+      "title": "Nottingham 3 - 2 Chelsea",
+      "message": "⏱️ TERMINÉ\n\n⚽ NOTTINGHAM 3 - 2 CHELSEA\n\n✅ Victoire de Nottingham\n🏆 Premier League · Journée 12\n\n#Football #PremierLeague",
+      "image": "cards/result-560658.png",
+      "date": "2026-11-28T00:41:05.045643+00:00"
+    },
+    {
+      "id": "result-564765",
+      "type": "score",
+      "title": "Levante 1 - 3 Santander",
+      "message": "⏱️ TERMINÉ\n\n⚽ LEVANTE 1 - 3 SANTANDER\n\n✅ Victoire de Santander\n🏆 Primera Division · Journée 14\n\n#Football #PrimeraDivision",
+      "image": "cards/result-564765.png",
+      "date": "2026-11-28T00:41:09.168305+00:00"
+    },
+    {
+      "id": "result-561968",
+      "type": "score",
+      "title": "Southampton 2 - 0 Middlesbrough",
+      "message": "⏱️ TERMINÉ\n\n⚽ SOUTHAMPTON 2 - 0 MIDDLESBROUGH\n\n✅ Victoire de Southampton\n🏆 Championship · Journée 18\n\n#Football #Championship",
+      "image": "cards/result-561968.png",
+      "date": "2026-11-28T00:41:13.232586+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/football/football-un-biopic-sur-zinedine-zidane-en-preparation-a-marseille-25-11-2026-ZURIKOK3WZEDHK7XUYUDIENOJ4.php",
+      "type": "news",
+      "title": "Football : un biopic sur Zinedine Zidane en préparation à Marseille ?",
+      "message": "🚨 Football : un biopic sur Zinedine Zidane en préparation à Marseille ?\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/football/football-un-biopic-sur-zinedine-zidane-en-preparation-a-marseille-25-11-2026-ZURIKOK3WZEDHK7XUYUDIENOJ4.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_football_football-un-biopic-sur-zinedine-z.png",
+      "date": "2026-11-28T00:41:16.330354+00:00"
+    },
+    {
+      "id": "news-https://www.leparisien.fr/sports/basket/basket-la-nba-devoile-un-plan-de-10-milliards-deuros-pour-le-developpement-des-salles-modernes-en-europe-25-11-2026-FW3EXL2GN5FLXPIEVCNS5X2N34.php",
+      "type": "news",
+      "title": "Basket : la NBA dévoile un plan de 10 milliards d’euros pour le développement « des salles modernes » en Europe",
+      "message": "🚨 Basket : la NBA dévoile un plan de 10 milliards d’euros pour le développement « des salles modernes » en Europe\n\n📰 Source : Le Parisien Sport\n\n#Football #Actu",
+      "link": "https://www.leparisien.fr/sports/basket/basket-la-nba-devoile-un-plan-de-10-milliards-deuros-pour-le-developpement-des-salles-modernes-en-europe-25-11-2026-FW3EXL2GN5FLXPIEVCNS5X2N34.php",
+      "image": "cards/news-https___www_leparisien_fr_sports_basket_basket-la-nba-devoile-un-plan-de-10.png",
+      "date": "2026-11-28T00:41:20.316938+00:00"
     }
   ],
   "feed_health": {
