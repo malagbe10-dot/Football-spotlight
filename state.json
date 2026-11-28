@@ -119,7 +119,9 @@
     "news-https://www.leparisien.fr/sports/football/le-timing-est-particulierement-malvenu-manuel-neuer-critique-pour-avoir-quitte-sa-femme-qui-venait-daccoucher-et-etre-parti-au-bresil-avec-sa-kine-26-11-2026-VCMET25IKRBVXELRH55PDIKNEI.php",
     "news-https://www.leparisien.fr/sports/il-sest-mis-a-ronfler-legende-de-nfl-aaron-rodgers-vire-par-sa-franchise-apres-avoir-critique-son-entraineur-en-interview-26-11-2026-NA4RA2TYEVH3LLUO4OS2I6WBAI.php",
     "news-https://www.leparisien.fr/sports/football/une-petite-frayeur-pierre-emerick-aubameyang-victime-dun-accident-de-voiture-au-volant-dune-ferrari-en-espagne-26-11-2026-HBBFKTA6HNH6BA2MKCNWTSEUMQ.php",
-    "fdgoal-564760-0-1"
+    "fdgoal-564760-0-1",
+    "fdgoal-565866-1-0",
+    "fdgoal-565866-2-0"
   ],
   "history": [
     {
@@ -1157,6 +1159,22 @@
       "message": "⚽ BUUUT ! Rayo Vallecano marque.\n\n📊 Real Betis 0 - 1 Rayo Vallecano\n🏆 Primera Division\n\n#Football #PrimeraDivision #Direct",
       "image": "cards/fdgoal-564760-0-1.png",
       "date": "2026-11-28T14:41:58.487961+00:00"
+    },
+    {
+      "id": "fdgoal-565866-1-0",
+      "type": "event",
+      "title": "1. FC Köln 1 - 0 Elversberg",
+      "message": "⚽ BUUUT ! 1. FC Köln marque.\n\n📊 1. FC Köln 1 - 0 Elversberg\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565866-1-0.png",
+      "date": "2026-11-28T14:44:37.112110+00:00"
+    },
+    {
+      "id": "fdgoal-565866-2-0",
+      "type": "event",
+      "title": "1. FC Köln 2 - 0 Elversberg",
+      "message": "⚽ BUUUT ! 1. FC Köln marque.\n\n📊 1. FC Köln 2 - 0 Elversberg\n🏆 Bundesliga\n\n#Football #Bundesliga #Direct",
+      "image": "cards/fdgoal-565866-2-0.png",
+      "date": "2026-11-28T14:55:38.019342+00:00"
     }
   ],
   "feed_health": {
@@ -1349,7 +1367,7 @@
       0
     ],
     "565866": [
-      0,
+      2,
       0
     ],
     "565867": [
@@ -1359,8 +1377,8 @@
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 12,
-    "last": "2026-11-28T14:40:59.457127+00:00"
+    "n": 21,
+    "last": "2026-11-28T14:55:32.107295+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1708,8 +1726,18 @@
       "h": "Real Betis",
       "a": "Rayo Vallecano",
       "n": 1
+    },
+    {
+      "h": "1. FC Köln",
+      "a": "Elversberg",
+      "n": 1
+    },
+    {
+      "h": "1. FC Köln",
+      "a": "Elversberg",
+      "n": 2
     }
   ],
-  "apif_urgent": "2026-11-28T14:51:49.689544+00:00",
+  "apif_urgent": "2026-11-28T15:05:32.107257+00:00",
   "_cap_logged": "2026-11-27"
 }
