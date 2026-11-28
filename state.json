@@ -127,7 +127,9 @@
     "fdgoal-565866-3-0",
     "fdgoal-565868-2-0",
     "fdgoal-558513-1-0",
-    "fdgoal-560655-0-1"
+    "fdgoal-560655-0-1",
+    "fdgoal-558513-2-0",
+    "fdgoal-560655-0-2"
   ],
   "history": [
     {
@@ -1229,6 +1231,22 @@
       "message": "⚽ BUUUT ! Brentford marque.\n\n📊 Man United 0 - 1 Brentford\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
       "image": "cards/fdgoal-560655-0-1.png",
       "date": "2026-11-28T15:25:21.873533+00:00"
+    },
+    {
+      "id": "fdgoal-558513-2-0",
+      "type": "event",
+      "title": "Frosinone 2 - 0 Parma",
+      "message": "⚽ BUUUT ! Frosinone marque.\n\n📊 Frosinone 2 - 0 Parma\n🏆 Serie A\n\n#Football #SerieA #Direct",
+      "image": "cards/fdgoal-558513-2-0.png",
+      "date": "2026-11-28T15:26:38.078499+00:00"
+    },
+    {
+      "id": "fdgoal-560655-0-2",
+      "type": "event",
+      "title": "Man United 0 - 2 Brentford",
+      "message": "⚽ BUUUT ! Brentford marque.\n\n📊 Man United 0 - 2 Brentford\n🏆 Premier League\n\n#Football #PremierLeague #Direct",
+      "image": "cards/fdgoal-560655-0-2.png",
+      "date": "2026-11-28T15:38:40.911512+00:00"
     }
   ],
   "feed_health": {
@@ -1248,57 +1266,57 @@
     "https://www.20minutes.fr/feeds/rss-sport.xml": {},
     "https://www.leparisien.fr/sports/rss.xml": {},
     "https://www.goal.com/feeds/fr/news": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.actufoot.com/feed": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.footsur7.fr/feed/": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.mercato365.com/rss": {},
     "https://www.africatopsports.com/feed/": {},
     "https://www.afrik-foot.com/feed": {},
     "https://www.footafrica365.fr/feed": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.bbc.com/afrique/sport/rss.xml": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.goal.com/feeds/en/news": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.fourfourtwo.com/feed": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.independent.co.uk/sport/football/rss": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.telegraph.co.uk/football/rss.xml": {},
     "https://www.cbssports.com/rss/headlines/soccer/": {},
     "https://talksport.com/football/feed/": {},
     "https://www.90min.com/posts.rss": {},
     "https://www.sport.es/es/rss/futbol/rss.xml": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.gazzetta.it/rss/calcio.xml": {},
     "https://www.corrieredellosport.it/rss/calcio": {},
     "https://rss.kicker.de/news/aktuell": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     },
     "https://www.record.pt/rss/futebol.xml": {
-      "fails": 20,
-      "next": "2026-11-28T15:21:07.704007+00:00"
+      "fails": 21,
+      "next": "2026-11-28T21:31:43.913985+00:00"
     }
   },
   "lineup_calls": {
@@ -1409,7 +1427,7 @@
       1
     ],
     "558513": [
-      1,
+      2,
       0
     ],
     "565868": [
@@ -1434,7 +1452,7 @@
     ],
     "560655": [
       0,
-      1
+      2
     ],
     "564767": [
       0,
@@ -1443,8 +1461,8 @@
   },
   "live_calls": {
     "date": "2026-11-28",
-    "n": 35,
-    "last": "2026-11-28T15:24:21.337721+00:00"
+    "n": 43,
+    "last": "2026-11-28T15:38:34.804354+00:00"
   },
   "live_fixtures": [
     1635641,
@@ -1837,8 +1855,18 @@
       "h": "Man United",
       "a": "Brentford",
       "n": 1
+    },
+    {
+      "h": "Frosinone",
+      "a": "Parma",
+      "n": 2
+    },
+    {
+      "h": "Man United",
+      "a": "Brentford",
+      "n": 2
     }
   ],
-  "apif_urgent": "2026-11-28T15:35:11.444658+00:00",
+  "apif_urgent": "2026-11-28T15:48:34.804316+00:00",
   "_cap_logged": "2026-11-27"
 }
